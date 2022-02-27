@@ -1,0 +1,2012 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief and excellent treatise containing the doctrine of godliness, or living unto God. Wherein the body of divinity is substantially proposed, and methodically digested, by way of question and answer. And, wherein sundry difficult points, much controverted in these times, are briefly and solidly determined, by that reverend and learned divine, Mr. John Norton, teacher of the church of God at Ipswich in New-England. Feb. 4. 1647. Imprimatur Joseph Caryl.</title>
+            <author>Norton, John, 1606-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89734</idno>
+            <idno type="STC">Wing N1315</idno>
+            <idno type="STC">Thomason E1178_5</idno>
+            <idno type="STC">ESTC R204872</idno>
+            <idno type="EEBO-CITATION">99864328</idno>
+            <idno type="PROQUEST">99864328</idno>
+            <idno type="VID">116555</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116555)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1178[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief and excellent treatise containing the doctrine of godliness, or living unto God. Wherein the body of divinity is substantially proposed, and methodically digested, by way of question and answer. And, wherein sundry difficult points, much controverted in these times, are briefly and solidly determined, by that reverend and learned divine, Mr. John Norton, teacher of the church of God at Ipswich in New-England. Feb. 4. 1647. Imprimatur Joseph Caryl.</title>
+                  <author>Norton, John, 1606-1663.</author>
+               </titleStmt>
+               <extent>63, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Edmund Paxton, and are to be sold at his shop in Pauls chain, over against the Castle Tavern near to the Doctors Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1468 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "march 9th. 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology, Doctrinal --  Examinations, questions, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116555:1" rendition="simple:additions"/>
+            <p>A brief and excellent TREATISE Containing The Doctrine of Godlineſs, or Living unto GOD.</p>
+            <p>WHEREIN The Body of DIVINITY is ſubſtantially propoſed, and methodically digeſted, By way of <hi>Queſtion</hi> and <hi>Anſwer.</hi>
+            </p>
+            <p>AND, Wherein ſundry difficult Points, much Con<g ref="char:EOLhyphen"/>troverted in theſe TIMES, are briefly and ſolidly determined, By that Reverend and Learned Divine, Mr. <hi>John Norton,</hi> Teacher of the Church of God at <hi>Ipſwich</hi> in NEW-ENGLAND.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>Feb. 4. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Imprimatur</hi>
+                        </p>
+                        <closer>
+                           <signed>JOSEPH CARYL.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edmund Paxton,</hi> and are to be ſold at his Shop in <hi>Pauls</hi> chain, over againſt the Caſtle Tavern near to the Doctors Commons. 1468.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:116555:2"/>
+            <pb facs="tcp:116555:2"/>
+            <head>THE PUBLISHER To the Courteous READER.</head>
+            <p>TO be tedious in Prefacing where the Work is ſo ſhort, would be prejudicial both to the Author that hath ſtudied, and the Reader that delights in brevity: Yet becauſe the world is grown to ſuch a frame, that little (though never ſo excellent) is now respected, if not commended, accept a word or two. The ſubject cannot but pleaſe any who is cordially affected to approve
+<pb facs="tcp:116555:3"/>himſelf to God and the world, by walking in all godlineſs and honeſty: To live, is the deſire of the creature; to live to ſin, of a ſenſual and cor<g ref="char:EOLhyphen"/>rupt creature; to live unto God, of a new creature: If Chriſt be in us we are new creatures, and ſo ſhall daily be renewed in strength and grace, till we attain to that ſtate where old things ſhall utterly vaniſh. Among others, take this little Trea<g ref="char:EOLhyphen"/>tiſe, attend to it, and in theſe giddy times, wherein poor ſouls ſeem to be bewitched and led captive with the enticing words of Mens Doctrines, thou mayeſt have a direction to lead thee toward thine end, the enjoyment of God.</p>
+            <p>Touching the Author, though he be far above my commendation, or
+<pb facs="tcp:116555:3"/>the worlds uſual expectation; yet, leſt the ignorance of him ſhould pre<g ref="char:EOLhyphen"/>judice his worth, and ſo the benefit of his Labors, Honeſty requires me to speak what Modesty justly denies him to publiſh. Where he is he is eminent honorable among the Wor<g ref="char:EOLhyphen"/>thies; yea (without injury to any) one of the chief. Whoſoever reads this (which is but a piece of him) let him, if he can, juſtly deny his abilities and learning. If any fall out with his Opinion concerning Church-power, let him, before he cenſure, read his Anſwer to <hi>Apollonius</hi> in Latine, and then if he be not fully ſatisfied, let him cenſure on, or disprove it if he can, and let the Author have his Plea to make it good, and then let the world judge who hath the beſt.</p>
+            <pb facs="tcp:116555:4"/>
+            <p>To trouble thee no farther, as there are diverſities of ſubjects, ſo there are diverſities of gifts, that every one whoſe eye is to heaven, may have ſomewhat spoken ſuitable to his own heart: It may be what ſatisfaction thou haſt miſſed elſwhere, thou mayest receive here. Read thou, and God give thee underſtand<g ref="char:EOLhyphen"/>ing in all things.</p>
+            <closer>
+               <salute>Farewel.</salute>
+               <signed>J. W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <div n="1" type="chapter">
+               <pb n="7" facs="tcp:116555:4"/>
+               <head>CHAP. I. Of the Sufficiency, and ſo of the Eſſence of GOD.</head>
+               <p>Q. <hi>
+                     <seg rend="decorInit">W</seg>Hat is Divinity?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The Doctrine of god<g ref="char:EOLhyphen"/>lineſs,<note place="margin">Rom. 6.11.</note> or living to God.</p>
+               <p>Q. <hi>How many parts hath it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two,
+<list>
+                     <item>Faith in God.</item>
+                     <item>Obedience unto God.<note place="margin">Tit. 3 8.</note>
+                     </item>
+                  </list>
+               </p>
+               <p>Q. <hi>Concerning God what are we to know?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. That God is.<note place="margin">Heb. 11.6. Deu 6.4. 1 Cor. 8.5, 6. Exod. 35.23.</note>
+                     </item>
+                     <item>2. That God is one.</item>
+                     <item>3. What this one God is, as he hath manifeſted himſelf to us in his back-parts according to our
+<list>
+                           <item>meaſure.</item>
+                           <item>manner.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>Q. <hi>From what other heads may arguments be drawn readily to prove that God is.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>From the word of God.</item>
+                     <item>From the works of God.</item>
+                     <item>From the emi<g ref="char:EOLhyphen"/>nenter works of his Spirit,</item>
+                  </list>
+                  <list>
+                     <item>1. Supernatural up<g ref="char:EOLhyphen"/>on the Creature, <hi>viz.</hi> Miracles:</item>
+                     <item>2. Extraordinary up<g ref="char:EOLhyphen"/>on Hypocrites:</item>
+                     <item>3. Special upon the Elect.</item>
+                  </list>
+               </p>
+               <pb n="8" facs="tcp:116555:5"/>
+               <p>Q. <hi>What are his back-parts?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> His
+<list>
+                     <item>Sufficiency.</item>
+                     <item>Efficiency.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>Wherein conſiſts his Sufficiency?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In his
+<list>
+                     <item>Eſſence.</item>
+                     <item>Subſiſtence.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What do you underſtand by the eſſence of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The eſſence of God abſolutely con<g ref="char:EOLhyphen"/>ſidered, is that one pure and meer act by which God is God.</p>
+               <p>Q. <hi>How may we further know what his eſſence is?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe through weakneſs of our underſtanding, we cannot in any meaſure apprehend it by one act; it hath pleaſed God to give unto himſelf many Names and Attributes, by the help of which we may the better conceive thereof.</p>
+               <p>Q. <hi>Which are thoſe Names?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>Jehovah;</hi>
+                     <note place="margin">Exod. 6.3.</note> ſignifying Gods being of himſelf, and alſo his giving being to all creatures, and to his word both promiſes and threatnings.</item>
+                  <item>
+                     <hi>Jah;</hi>
+                     <note place="margin">Pſa. 68.4.</note> ſignifying that God is an abſolute being of himſelf, and gives being to all creatures.</item>
+                  <item>
+                     <hi>Ehjeh aſher Ehjeh,</hi>
+                     <note place="margin">Exod. 3.14.</note> I am that I am, or I will be that I will be; it ſignifies Gods eternal and unchangeable being in him<g ref="char:EOLhyphen"/>ſelf,
+<pb n="9" facs="tcp:116555:5"/>and that he is now and will be for ever that which he was before to <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac</hi> and <hi>Jacob;</hi> accordingly we reade of Jeſus, <hi>Hebr.</hi> 5.8. to this Name Chriſt alludeth <hi>Joh.</hi> 8.58.</item>
+                  <item>
+                     <hi>El,</hi> the mighty one;<note place="margin">Iſa. 9.6.</note> ſignifying that God hath all power in himſelf, and giveth unto all creatures the power which they have.</item>
+                  <item>
+                     <hi>Elohim,</hi> a word of the Plural Num<g ref="char:EOLhyphen"/>ber;<note place="margin">Gen. 1.26.</note> ſignifying that there is a plurality in this one being of God, and ſo notes the myſtery of the Trinity, or Three Per<g ref="char:EOLhyphen"/>ſons in one Eſſence.</item>
+                  <item>
+                     <hi>Shaddai;</hi>
+                     <note place="margin">Gen. 17.1.</note> ſignifying the All-ſufficiency of God; or, that God is he who is All<g ref="char:EOLhyphen"/>ſufficient, wanting nothing, and able to provide for all.</item>
+                  <item>
+                     <hi>Adonai,</hi> Lord;<note place="margin">Pſa. 2.4.</note> ſignifying the abſolute Lordſhip of God; it is of the Plural Num<g ref="char:EOLhyphen"/>ber, and therefore ſignifieth all the Three Perſons in one Eſſence.</item>
+                  <item>
+                     <hi>Helion,</hi> tranſlated, the moſt High;<note place="margin">Pſa. 9.2.</note> ſig<g ref="char:EOLhyphen"/>nifying that God in his being and glory is far above all creatures. <hi>Luke</hi> 1.32.</item>
+               </list>
+               <list>
+                  <head>In the New Teſtament.</head>
+                  <item>
+                     <hi>Theos,</hi>
+                     <note place="margin">Mat. 4.7.</note> God; ſignifying a Being that is above all other beings, and compre<g ref="char:EOLhyphen"/>hending
+<pb n="10" facs="tcp:116555:6"/>all other beings in its power.</item>
+                  <item>
+                     <hi>Kurios,</hi>
+                     <note place="margin">Col. 4.1.</note> Lord or Maſter; ſignifying, that God is the onely Lord, and hath abſolute power over all creatures.</item>
+               </list>
+               <div type="part">
+                  <head>Of the Attributes.</head>
+                  <p>Q. <hi>What do you underſtand by the attri<g ref="char:EOLhyphen"/>butes of God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Certain eſſential properties which God is pleaſed in Scripture to aſcribe or at<g ref="char:EOLhyphen"/>tribute unto himſelf; they are alſo called the Perfections of God, or Divine Predica<g ref="char:EOLhyphen"/>tions or Titles.</p>
+                  <p>Q. <hi>What is the uſe of theſe attributes?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Their uſe is to help our underſtand<g ref="char:EOLhyphen"/>ing the better to conceive of the Eſſence of God.<note place="margin">Exod. 34.6, 7.</note>
+                  </p>
+                  <p>Q. <hi>How are the attributes diſtinguiſhed from the eſſence?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> They are not diſtinguiſhed from the eſſence really, but notionally; that is, they are not diſtinguiſhed at all in God, but onely to us-ward, according to our maner of conceiving; for every and all the attri<g ref="char:EOLhyphen"/>butes are the Divine eſſence it ſelf, ac<g ref="char:EOLhyphen"/>cording to that received propoſition, <hi>What<g ref="char:EOLhyphen"/>ſoever is in God, is God:</hi> and this is the rea<g ref="char:EOLhyphen"/>ſon why ſome deſcribe every attribute from the eſſence of God.</p>
+                  <p>Q. <hi>How many kindes of attributes are there?</hi>
+                  </p>
+                  <pb n="11" facs="tcp:116555:6"/>
+                  <p>
+                     <hi>A.</hi> Three,
+<list>
+                        <item>Negative.</item>
+                        <item>Relative.</item>
+                        <item>Poſitive.</item>
+                     </list>
+                  </p>
+                  <p>Q. <hi>What do you underſtand by the Nega<g ref="char:EOLhyphen"/>tive attributes?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Such attributes as remove from God all imperfection; by theſe we help our un<g ref="char:EOLhyphen"/>derſtanding in our meditation of God by way of negation.</p>
+                  <p>Q. <hi>How many Negative attributes are there, to which, or ſome of which, any other of like nature may conveniently be referred?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Five,
+<list>
+                        <item>Simplicity.</item>
+                        <item>Eternity.</item>
+                        <item>Immenſity.</item>
+                        <item>Imutability.</item>
+                        <item>Infiniteneſs.</item>
+                     </list>
+                  </p>
+                  <p>Q. <hi>What is Simplicity?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is God; one meer and perfect act without all compoſition.<note place="margin">Exod. 3.14.</note>
+                  </p>
+                  <p>Q. <hi>What do you mean in ſaying God is a meer and perfect act?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> That God is a cauſe without any cauſe, a being that is not from any being, not compounded of an act by which he is, and poſſibility by which he may not be, of whom it never could nor can be ſaid, that any thing was to be in him, which is not, or cannot be, that is.</p>
+                  <p>Q. <hi>How many ways of compoſition are there?</hi>
+                  </p>
+                  <pb n="12" facs="tcp:116555:7"/>
+                  <p>
+                     <hi>A.</hi> Seven.</p>
+                  <list>
+                     <item>1. Of parts which are bounded by quan<g ref="char:EOLhyphen"/>tity, as a body having one part upon an<g ref="char:EOLhyphen"/>other.</item>
+                     <item>2. Of matter and form, as a man of bo<g ref="char:EOLhyphen"/>dy and ſoul.</item>
+                     <item>3. Of general and ſpecial nature, as every ſpecies whoſe common nature may be found in ſome other thing, where the ſpecial nature is not, as a living creature and a man.</item>
+                     <item>4. Of a ſubject and an accident, as every created ſubſtance.</item>
+                     <item>5. Of an act and poſſibility, as An<g ref="char:EOLhyphen"/>gels.</item>
+                     <item>6. Of a perſon and nature, as Chriſt compounded of the Divine Perſon and Hu<g ref="char:EOLhyphen"/>mane nature, which yet is not properly com<g ref="char:EOLhyphen"/>poſition of parts, but of number.</item>
+                     <item>7. Of being and individuation, that is, that by which we have ſuch a particular be<g ref="char:EOLhyphen"/>ing, as Humanity and <hi>Peter.</hi>
+                     </item>
+                  </list>
+                  <p>Q. <hi>What is Eternity?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God without Beginning,<note place="margin">Iſa. 57.15.</note> without End, and without all maner of Succeſſion, where is nothing paſt nor to come.</p>
+                  <p>Q. <hi>How is the duration of God of incor<g ref="char:EOLhyphen"/>ruptible creatures, and of corruptible crea<g ref="char:EOLhyphen"/>tures, diſtinguiſhed?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The duration of God is called Eter<g ref="char:EOLhyphen"/>nity;
+<pb n="13" facs="tcp:116555:7"/>the duration of incorruptible crea<g ref="char:EOLhyphen"/>tures, ſuch as Angels, and the ſouls of men, which had a beginning, but ſhall have no end, is called Eviternity; the duration of corruptible creatures, is called Time.</p>
+                  <p>Q. <hi>What is the Immenſity of God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God preſent every where,<note place="margin">Pſ. 139.7 Iſa. 66.1. Ier. 23.</note> neither in<g ref="char:EOLhyphen"/>cluded in, nor excluded from any place or thing.</p>
+                  <p>Q. <hi>How many ways do you underſtand God to be every where?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Three,
+<list>
+                        <item>1. By his Eſſence,<note place="margin">Gen. 1.31 Ioh. 1.3. Col. 1.16 Pſ 139.7 Heb. 4.13 Act. 17.28. Col. 1.17. Heb. 1.3.</note> as the cauſe of all things.</item>
+                        <item>2. By his Preſence, behold<g ref="char:EOLhyphen"/>ing all things.</item>
+                        <item>3. By his Power, upholding all things in their motion and action.</item>
+                     </list>
+                  </p>
+                  <p>Q. <hi>What is Immutability?</hi>
+                     <note place="margin">Pſa. 102.27, 28. Mal. 3.6. Iam. 1.17</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God without any alteration in re<g ref="char:EOLhyphen"/>ſpect of being, will, or any accidents.</p>
+                  <p>Q. <hi>What is Infiniteneſs?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is God incomprehenſible in reſpect of Created underſtanding,<note place="margin">Ioh 1.18 1 Tim. 6.16. Iob 11.8</note> and compre<g ref="char:EOLhyphen"/>hending in himſelf the fulneſs of all per<g ref="char:EOLhyphen"/>fection.</p>
+                  <p>Q. <hi>Give the ſum of the Negative at<g ref="char:EOLhyphen"/>tributes?</hi>
+                  </p>
+                  <pb n="14" facs="tcp:116555:8"/>
+                  <p>
+                     <hi>A.</hi> By
+<list>
+                        <item>Simplicity</item>
+                        <item>Eternity</item>
+                        <item>Immenſity</item>
+                        <item>Imutability</item>
+                        <item>Infiniteneſs</item>
+                     </list> we remove from God all
+<list>
+                        <item>compoſition &amp; multiplicity.</item>
+                        <item>time and ſuc<g ref="char:EOLhyphen"/>ceſſion.</item>
+                        <item>place and quan<g ref="char:EOLhyphen"/>tity.</item>
+                        <item>change &amp; qua<g ref="char:EOLhyphen"/>lity.</item>
+                        <item>comprehenſibi<g ref="char:EOLhyphen"/>lity.</item>
+                     </list>
+                  </p>
+                  <p>Q. <hi>What do you underſtand by Relative attributes?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Such attributes as are aſcribed to God in time, imploying a reſpect unto the crea<g ref="char:EOLhyphen"/>tures now in being; by theſe our under<g ref="char:EOLhyphen"/>ſtanding is helped in our meditation of God by way of cauſality.</p>
+                  <p>Q. <hi>Do theſe Relative attributes, in that they are aſcribed unto God, in time infer any change in God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> No; they do not infer any change or accident in God;<note place="margin">Iames 1.17.</note> in ſuch attributes there is no change in God, but in the creatures.</p>
+                  <p>Q. <hi>How many Relative attributes are there to which, or ſome of which, the reſt of like nature may conveniently be referred?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Seven,
+<list>
+                        <item>1. Creation.</item>
+                        <item>2. Providence.</item>
+                        <item>3. Lordſhip.</item>
+                        <item>4. Benignity.</item>
+                        <item>5. Mercy.</item>
+                        <item>6. Redemption</item>
+                        <item>7. Juſtice.</item>
+                     </list>
+                  </p>
+                  <pb n="15" facs="tcp:116555:8"/>
+                  <p>Q. <hi>What is Creation?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God creating all things of nothing very good.<note place="margin">Gen. 1.</note>
+                  </p>
+                  <p>Q. <hi>What is Providence?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God preſerving and governing all things with the circumſtances thereof,<note place="margin">Prov. 16.4. Rom. 8.28, 29.</note> unto their ſeveral ends, according to the counſel of his will, for his own glory, and the good of his Elect.</p>
+                  <p>Q. <hi>What is the Lordſhip of God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God having abſolute right and power to and over all his creatures,<note place="margin">1 Sam. 3.18. 1 Tim. 6.15. Iob 33.13. Matth. 20.15. Rom. 9.20. Dan. 4.25.</note> and diſpoſing thereof according to his will.</p>
+                  <p>Q. <hi>What is Benignity?</hi>
+                     <note place="margin">Pſa. 33.5 Mat. 5.45 1 Tim. 4.10. Pſ. 36.6.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God freely communicating of his grace and goodneſs to his creatures accord<g ref="char:EOLhyphen"/>ing to his good pleaſure.</p>
+                  <p>Q. <hi>What is Mercy?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God inclined out of his free love to ſuccor his creature in miſery.<note place="margin">Exod. 34.6. Deut. 4.31. 1 Chro. 21.13. Ionah 4.2. Iam. 5.11.</note>
+                  </p>
+                  <p>Q. <hi>What is Redemption?</hi>
+                     <note place="margin">Ioh 3.16 Mat. 20.28. Mark 10.45.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Gal. 2.20 Rom. 3.26.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God giving his Son, and Jeſus Chriſt God-Man giving himſelf a ranſom for the Elect; whence it comes to paſs, that Juſtice is no hinderance to the application of Mercy.</p>
+                  <p>Q. <hi>What is Juſtice?</hi>
+                  </p>
+                  <pb n="16" facs="tcp:116555:9"/>
+                  <p>
+                     <hi>A.</hi> Juſtice is,<note place="margin">Deu. 32.4 Dan. 9.16 Pſa. 80.14 Iſa. 5.16. Pſal. 62.11, 12.</note> God rendring unto the rea<g ref="char:EOLhyphen"/>ſonable creature what is due thereunto ac<g ref="char:EOLhyphen"/>cording to his Word, whether by way of grace or puniſhment.</p>
+                  <p>Q. <hi>What do you underſtand by the Poſi<g ref="char:EOLhyphen"/>tive attributes?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Such attributes as aſcribe ſome perfe<g ref="char:EOLhyphen"/>ction to God, not inferring any reſpect un<g ref="char:EOLhyphen"/>to the creatures exiſting, or in preſent being; by theſe our underſtanding is helped in our meditation of God by way of eminency.</p>
+                  <p>Q. <hi>How many Poſitive attributes are there, to which, or ſome of which, the reſt of like nature may conveniently be referred?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Six,
+<list>
+                        <item>1. Wiſdom.</item>
+                        <item>2. Will.</item>
+                        <item>3. Holineſs.</item>
+                        <item>4. Liberty.</item>
+                        <item>5. Omnipotency.</item>
+                        <item>6. Perfection.</item>
+                     </list>
+                  </p>
+                  <p>Q. <hi>What is the Wiſdom of God?</hi>
+                     <note place="margin">1 Tim. 1.17. Act. 15.18 1 Ioh. 3.20. Rom. 9.15, 19. Eph. 1.11 Pſ. 135.6.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God underſtanding all things intel<g ref="char:EOLhyphen"/>ligible by his Eſſence.</p>
+                  <p>Q. <hi>What is the Will of God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God willing the being of whatſoever he pleaſeth.</p>
+                  <p>Q. <hi>What is the Holineſs of God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God conformable to himſelf.<note place="margin">1 Sam. 2.2. Iſa. 40.25. and 41.20. and 29.13. Hab. 1.13.</note>
+                  </p>
+                  <p>Q. <hi>What is the Liberty of God?</hi>
+                     <note place="margin">Pſ. 115.3 Iſa 49.13 Dan. 4.35.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God willing whatſoever is beſides himſelf, not of any neceſſity of nature,
+<pb n="17" facs="tcp:116555:9"/>but of his meer good pleaſure.</p>
+                  <p>Q. <hi>What is Omnipotency?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God able to do whatſoever his wiſdom doth conceive.<note place="margin">Gen. 18.14. Mat. 19.26. Iſa 46.10 Exo. 6.3. Gen. 17.1, 2. Exo. 6.3. Mat. 5.48</note>
+                  </p>
+                  <p>Q. <hi>What is Perfection?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God All-ſufficient and All-excellent, not having need of any thing, giving ſuffici<g ref="char:EOLhyphen"/>ency to, and having in him the perfection of all things.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. Hitherto of the Eſſence: now Of the Subſiſtence of GOD.</head>
+               <p>Q. <hi>VVHat is the Subſiſtence of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That one Divine Eſſence ſubſiſting in Three Perſons, of Father, Son and holy Ghoſt; ſo as the Father is of none, the Son of the Father, the Holy Ghoſt from the Father and the Son.</p>
+               <p>Q. <hi>How many perſons are there of the Di<g ref="char:EOLhyphen"/>vine Eſſence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three, God the Father, God the Son,<note place="margin">Mat. 3.16 Mat. 28.19. Ioh. 15.26 2 Cor. 13.13. 1 Ioh. 5.7.</note> and God the holy Ghoſt.</p>
+               <p>Q. <hi>What is a perſon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A perſon is God, or the Divine Eſſence ſubſiſting in ſuch a relation.</p>
+               <p>Q. <hi>What do you underſtand by the firſt per<g ref="char:EOLhyphen"/>ſon of the Trinity?</hi>
+               </p>
+               <pb n="18" facs="tcp:116555:10"/>
+               <p>
+                  <hi>A.</hi> God ſubſiſting in the relation of beget<g ref="char:EOLhyphen"/>ting, and together with the Son, breathing forth or producing the holy Ghoſt.</p>
+               <p>Q. <hi>What do you underſtand by the ſecond perſon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God ſubſiſting in the relation of being begotten, and together with the Father, brea<g ref="char:EOLhyphen"/>thing forth or producing the holy Ghoſt.</p>
+               <p>Q. <hi>What do you underſtand by the third perſon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God ſubſiſting in the relation of pro<g ref="char:EOLhyphen"/>ceeding from the Father and the Son.</p>
+               <p>Q. <hi>What do you gather from thence;</hi> viz. <hi>that the whole Divine Eſſence ſubſiſts in every perſon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. That all the Divine Attributes are common and predicate of every perſon.</item>
+                     <item>2. All the Names that are proper to God, are common to every perſon.</item>
+                     <item>3. That all the works of God which are upon the creature, are truly predicated of every perſon.</item>
+                     <item>4. That Divine worſhip is due to every perſon.</item>
+                     <item>5. That all the perſons are equal.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>How doth a perſon differ from the Eſſence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> As the relation or maner of any being or thing is diſtinguiſhed from the thing it ſelf.</p>
+               <p>Q. <hi>How doth a perſon differ from a perſon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> As a relation or maner of a being or
+<pb n="19" facs="tcp:116555:10"/>thing is diſtinguiſhed from a relation or maner of a being or thing; or more largely they are diſtinguiſhed by their order, properties and maner of working.</p>
+               <p>Q. <hi>What is the order of the Three perſons in the Trinity?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That the Father is the firſt perſon,<note place="margin">Iohn 5.30. Iohn 15.26.</note> the Son is the ſecond, the holy Ghoſt in the third; that is, there is a priority in reſpect of the or<g ref="char:EOLhyphen"/>der of their original, but no priority of digni<g ref="char:EOLhyphen"/>ty, duration, cauſality or nature, properly.</p>
+               <p>Q. <hi>What rule have we to regulate our appre<g ref="char:EOLhyphen"/>henſions concerning the order of the perſons?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Notwithſtanding diſtinction in reſpect of order, the perſons remain equal amongſt themſelves.</p>
+               <p>Q. <hi>What is a perſonal property?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That which is proper to one perſon;<note place="margin">Pſa. 2.7. Ioh. 1.14 &amp; 15.26.</note> the perſonal property of the Father is to beget, of the Son to be begotten, of the holy Ghoſt to proceed.</p>
+               <p>Q. <hi>What rule have we to regulate our appre<g ref="char:EOLhyphen"/>henſions concerning the perſonal properties?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The maner of the exiſtence of the per<g ref="char:EOLhyphen"/>ſons, is communicable from one perſon to an<g ref="char:EOLhyphen"/>other, but the Eſſence is incommunicable.</p>
+               <p>Q. <hi>What do you underſtand by the maner of the working of the perſons?</hi>
+                  <note place="margin">Gen. 19.24. Iohn 5.19, 30. &amp; 8.28.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> That the maner of their working is according to the maner of their exiſting, the
+<pb n="20" facs="tcp:116555:11"/>Father not from any,<note place="margin">Ioh. 16.13. and 14.26. &amp; 15.26. Gal. 4.6.</note> the Son from the Fa<g ref="char:EOLhyphen"/>ther, the holy Ghoſt from the Father and the Son.</p>
+               <p>Q. <hi>What rules have we to regulate our ap<g ref="char:EOLhyphen"/>prehenſions, concerning the maner of the working of the perſons?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two,
+<list>
+                     <item>1. The cauſality of the operations of every perſon is from the Divine eſſence, the order of the operations from the maner of the exiſtence of the ſeveral perſons.</item>
+                     <item>2. All the works of God upon the creature are wrought in common by all the Three per<g ref="char:EOLhyphen"/>ſons, notwithſtanding the work be principally aſcribed unto that perſon whoſe maner of ex<g ref="char:EOLhyphen"/>iſtence doth moſt eminently appear in it.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What terms are we to avoid in ſpeaking of the Trinity?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Five ſorts of terms,
+<list>
+                     <item>1. Diverſity or difference,</item>
+                     <item>2. Of diviſion,</item>
+                     <item>3. Of diſparity,</item>
+                     <item>4. Of confuſion</item>
+                     <item>5. Of ſolitari<g ref="char:EOLhyphen"/>neſs,</item>
+                  </list> oppoſite to the
+<list>
+                     <item>Simplicity of God.</item>
+                     <item>Unity of God.</item>
+                     <item>Equality of the perſons.</item>
+                     <item>Order of the perſons.</item>
+                     <item>Number of the perſons.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>After what hath hitherto been ſaid, expreſs now your belief concerning God.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I believe God to be <hi>Jehovah Elohim;</hi>
+                  <pb n="21" facs="tcp:116555:11"/>that is, one abſolute being, ſubſiſting in Three perſons, of Father, Son and holy Ghoſt.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. Hitherto of the Sufficiency: now Of the Efficiency of GOD, and Apoſtacy of MAN.</head>
+               <p>Q. <hi>VVHat is the Efficiency of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is that whereby he work<g ref="char:EOLhyphen"/>eth all things,<note place="margin">Eph. 1.11.</note> and all in all things.</p>
+               <p>Q. <hi>How many kindes are there of this Effi<g ref="char:EOLhyphen"/>ciency, or how may the works of God be divided?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are
+<list>
+                     <item>Eſſential.</item>
+                     <item>Perſonal.</item>
+                     <item>Perſonal after a maner.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What do you mean by the Eſſential works of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Such works as do proceed from the Di<g ref="char:EOLhyphen"/>vine Eſſence, which is common to Father, Son and holy Ghoſt, and whoſe object is the creature.</p>
+               <p>Q. <hi>What do you mean by the perſonal works of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Such works as proceed from any of the perſons working according to their perſonal properties; <hi>viz.</hi> for the Father to beget, the
+<pb n="22" facs="tcp:116555:12"/>Son to be begotten, and the holy Ghoſt to proceed.</p>
+               <p>Q. <hi>How do you diſtinguiſh between the Eſ<g ref="char:EOLhyphen"/>ſential and Perſonal works?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Principle of the Eſsential works, is the Divine Eſſence common to Father, Son and holy Ghoſt.</p>
+               <p>The Principle of the Perſonal works, is ſome one of the perſons working according to its perſonal relation, or relative property.</p>
+               <p>Q. <hi>How may the Eſſential works of God be divided?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are
+<list>
+                     <item>Internal.</item>
+                     <item>External.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is the difference between the internal and external works of God, both being eſſential?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The internal works are increated, the external are created.</p>
+               <p>The internal are from eternity, the external are in time.</p>
+               <p>Q. <hi>What do you mean by the internal eſſen<g ref="char:EOLhyphen"/>tial works of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Such works as are in the Divine Eſſence it ſelf by an inward and eternal act, as namely, the Decree of God.</p>
+               <p>Q. <hi>What is the Decree of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> His eternal purpoſe of working all things according to the counſel of his will.<note place="margin">Act. 2.23 &amp; 4.28. Eph. 1.9.</note>
+               </p>
+               <p>Q. <hi>What are the external eſſential works of God?</hi>
+               </p>
+               <pb n="23" facs="tcp:116555:12"/>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>Creation, and</item>
+                     <item>Actual Providence.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is Creation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the firſt external work of God by which he made all things of nothing very good.<note place="margin">Gen. cap. 1. &amp; 2.</note>
+               </p>
+               <p>Q. <hi>What is the efficient cauſe of the Creation, or who is the Creator?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="*" place="margin">Gen. 1.1 Iob 35.10. Pſ. 149.2 Iſa. 54.5.</note> God the Father, Son and holy Ghoſt.</p>
+               <p>Q. <hi>In what ſpace of time did God make all his works?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In ſix days.<note place="margin">Exo. 20.11.</note>
+               </p>
+               <p>Q. <hi>What were the works of the firſt day?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Heaven, the Angels,<note place="margin">Gen. 1.1, 2, 3, 4, 5.</note> the Principles of natural bodies, together with their inſepara<g ref="char:EOLhyphen"/>ble accidents, Light, night and day.</p>
+               <p>Q. <hi>What are Angels?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Angels are Spirits ſubſiſting in them<g ref="char:EOLhyphen"/>ſelves, created in the beginning according to the image of God incommunicable,<note place="margin">Iob 38.6, 7.</note> not ſu<g ref="char:EOLhyphen"/>ſtained in another, nor taking part of another.</p>
+               <p>Q. <hi>What were the works of the ſecond day?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Firmament; <hi>viz.</hi> the Air,<note place="margin">Gen. 1.6, 7, 8.</note> and by it the diviſion of the waters which are under it, from them which are above it.</p>
+               <p>Q. <hi>What were the works of the third day?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The gathering together of the waters called Seas.</p>
+               <p>The appearing of the dry land called Earth.<note place="margin">Gen. 1.9, 10, 11, 12, 13.</note>
+               </p>
+               <p>The adorning of the Earth with graſs, herbs
+<pb n="24" facs="tcp:116555:13"/>and trees yielding fruit, and having ſeed in themſelves to yield fruits after their kindes.</p>
+               <p>Q. <hi>What wer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the works of the fourth day?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Sun,<note place="margin">Gen. 1.14, to 19. Gen. 1.20, 21, 22, 23.</note> Moon and Stars.</p>
+               <p>Q. <hi>Wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t were the works of the fifth day?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Fiſhes that live in the water, and the fowls that live in the air.</p>
+               <p>Q. <hi>What are the works of the ſixth day?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The creatures living upon the earth,<note place="margin">Gen. 1.24, 25, 26</note> 
+                  <hi>viz.</hi>
+                  <list>
+                     <item>creeping things,</item>
+                     <item>Beaſts,</item>
+                     <item>Man.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>How did God create man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In his own image created he him,<note place="margin">Gen. 1.27. Gen. 5.1, 2.</note> male and female created he them.</p>
+               <p>Q. <hi>What was the image of God, according to which man was created?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That likeneſs by which man did emi<g ref="char:EOLhyphen"/>nently reſemble his Maker, in ſuch a meaſure as was convenient to his nature.</p>
+               <p>Q. <hi>In what things did this image of God in man principally conſist?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In four;<note place="margin">Eph. 4.24. Col. 3.10. Eccl. 7.29. Pſal. 8.6.</note> 
+                  <hi>viz.</hi>
+                  <list>
+                     <item>1. The nature of the ſoul.</item>
+                     <item>2. The conformity of the whole man unto <hi>Gods</hi> will</item>
+                     <item>3. The original liberty of his will to good.</item>
+                     <item>4. His dominion over the creatures.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is the Soul?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Soul is a ſpiritual, incorporeal and
+<pb n="25" facs="tcp:116555:13"/>immortal ſubſtance, created by God of no<g ref="char:EOLhyphen"/>thing, immediately infuſed into the body as the proper form thereof, by which man is, liveth, is ſenſible, moveth, underſtandeth, willeth, and is affected, and when it ſhall be ſeparated from the body, it ſtill remaineth immortal, ſubſiſting by it ſelf, to be reunited to the body at the Reſurrection, there to abide for ever.</p>
+               <p>Q. <hi>What is the Providence of God?</hi>
+                  <note place="margin">Ioh. 5.17 Pſal. 76.10. Eph. 1.6. Phil. 2.10, 11. Rom. 8.28. Matt. 10.29, 30.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> It is an external work of God, by which he preſerveth, and ſo ordereth and diſpoſeth of all his works, and the actions thereof, as maketh moſt for his glory, and the good of his Elect.</p>
+               <p>Q. <hi>How many parts are there of his Provi<g ref="char:EOLhyphen"/>dence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two,
+<list>
+                     <item>The keeping of his creatures in their being and vertues.<note place="margin">Acts 11.28. Iſa. 47.7. Pſal. 75.7, 8.</note>
+                     </item>
+                     <item>The governing of them to their ſeveral ends.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>How is this government divided?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Into
+<list>
+                     <item>common, belonging to all his works.</item>
+                     <item>ſpecial, belonging to Angels &amp; Men.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>In Gods ſpecial government of Angels and Men, what is to be conſidered?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> His
+<list>
+                     <item>preſcribing to them a Law: and<note place="margin">Deut. 26.16, 17, 18. Rom. 9.19.</note>
+                     </item>
+                     <item>ordering the events that were to follow thereupon.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>Touching the ordering of the events con<g ref="char:EOLhyphen"/>cerning man, what are you to conſider?</hi>
+               </p>
+               <pb n="26" facs="tcp:116555:14"/>
+               <p>
+                  <hi>A.</hi> Two things,<note place="margin">Rom. 5.19. 1 Cor. 15.21.</note>
+                  <list>
+                     <item>1. His Apoſtacy or fall, which was the tranſgreſſion of the Law preſcribed to him by God.</item>
+                     <item>2. His Recovery.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What are there to be conſidered in his Apoſtacy.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The tranſgreſſion it ſelf.<note place="margin">Gen. 3.6</note>
+               </p>
+               <p>The propagation of it.</p>
+               <p>Q. <hi>But for your better underſtanding of this point, what may you further conſider concerning the tranſgreſſion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. The ſinfulneſs of the tranſgreſſion.<note place="margin">Gen. 2.17.</note>
+                     </item>
+                     <item>2. The cauſes.</item>
+                     <item>3. The conſequents thereof.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What are you to conſider concerning the cauſes of this tranſgreſſion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. Negatively,<note place="margin">Iam. 1.13.</note> 
+                        <hi>God</hi> was not the cauſe of it.</item>
+                     <item>2. Affirmatively,<note place="margin">Gen. 3.1 &amp; 3.6.</note> the
+<list>
+                           <item>External cauſe was the inſtigation of Satan.</item>
+                           <item>Internal, the ſwer<g ref="char:EOLhyphen"/>ving of the will of our firſt Parents from the Will of God.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>Q. <hi>What are you to conſider concerning the conſequents or events thereof?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The
+<list>
+                     <item>Guilt.<note place="margin">Gen. 2.17. &amp; 3.10.</note>
+                     </item>
+                     <item>Puniſhment, <hi>viz.</hi> Death; a great
+<pb n="27" facs="tcp:116555:14"/>part of which death is original ſin,<note place="margin">1 Cor. 15.21, 22.</note> whence actual ſin floweth as an act from the habit.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is Original ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The hereditary and habitual enmity and contrariety of the whole nature of man unto the Law of God,<note place="margin">Rom. 7.17, 20. Heb. 12.1. Gen. 6.5. Rom. 8.7 Ier. 2.13.</note> conſiſting in averſneſs from all good, and propenſneſs to all evil.</p>
+               <p>Q. <hi>What is Actual ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the ſwerving of the act of man ei<g ref="char:EOLhyphen"/>ther in
+<list>
+                     <item>thought,<note place="margin">Rom. 7.16, 17. 2 Cor. 10.5. Mat. 12.37. Eccl. 12.14.</note>
+                     </item>
+                     <item>word,</item>
+                     <item>deed,</item>
+                  </list> from the Law of God.</p>
+               <p>Q. <hi>How many ſorts are there of Actual ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two, ſins of
+<list>
+                     <item>Omiſſion.</item>
+                     <item>Commiſſion.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is the propagation of ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The conveyance of the actual ſin of <hi>A<g ref="char:EOLhyphen"/>dam</hi> in eating the forbidden fruit,<note place="margin">Iob 14.4. Pſa. 51.5. Rom. 5.14. Eph. 2.3.</note> and of ori<g ref="char:EOLhyphen"/>ginal ſin to all his poſterity proceeding from him by ordinary generation; together with the guilt and puniſhment thereof.</p>
+               <p>Q. <hi>After what maner is all this propagated?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The
+<list>
+                     <item>Inſtrumental cauſe,<note place="margin">Gen. 5.3 Pſa. 51.5. Iob 14.4. Ioh. 3.6. Rom. 12.5.</note> is the ſeed of our next Parents.</item>
+                     <item>Blameable cauſe, is <hi>Adams</hi> ſin made ours by imputation, and by real communication, and it may ſeem by ſome kinde of participation.</item>
+                     <item>Unblameable cauſe, is the righte<g ref="char:EOLhyphen"/>ouſneſs of God,<note place="margin">Gen. 2.17.</note> not as the Au<g ref="char:EOLhyphen"/>thor
+<pb n="28" facs="tcp:116555:15"/>of nature, but the Avenger of ſin.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>After what order is ſin derived to man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, the actual ſin of <hi>Adam</hi> in eating the forbidden fruit; thence proceedeth original ſin as an effect from the cauſe; thence actual, as an act from the habit, with the guilt and penalties, all hanging one upon another.</p>
+               <p>Q. <hi>What is the way by which God reveals this miſery?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the moral Law.<note place="margin">Rom. 7.7</note>
+               </p>
+               <p>Q. <hi>How doth God reveal this miſery by the law?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt,<note place="margin">Rom. 3.20. Iſa. 4.4. Rom. 8.15. 2 Tim. 1.7.</note> by diſcovering ſin as ſin.</p>
+               <p>Secondly, by the works of conviction, bon<g ref="char:EOLhyphen"/>dage, terror, all in their meaſure.</p>
+               <p>Q. <hi>What are we to think of man in this eſtate according to the Scripture?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That he is wholly dead in ſin, the childe of wrath and diſobedience.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. Hitherto of Mans Apoſtacy or Fall from GOD: now Of Mans recovery, the Redeemer, and the Perſon of Chriſt.</head>
+               <p>Q. <hi>VVHat is mans recovery?</hi>
+                  <note place="margin">Rom. 6.14. Rom. 8.2 Gal. 3.10 Acts. 26.18.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the reſtoring of him from the ſtate of ſin and death, unto the eſtate of grace and life.</p>
+               <pb n="29" facs="tcp:116555:15"/>
+               <p>Q. <hi>How many parts are there of mans recovery?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two, Redemption: Application of it.</p>
+               <p>Q. <hi>What is Redemption?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the freeing of man from the bon<g ref="char:EOLhyphen"/>dage of the Curſe, Sin and Satan, into the li<g ref="char:EOLhyphen"/>berty of the grace of God in <hi>Jeſus Chriſt,</hi> by the laying down of a price.</p>
+               <p>Q. <hi>Who is the Redeemer?</hi>
+                  <note place="margin">1 Tim. 2.5, 6. 2 Cor. 15.21.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> Jeſus Chriſt.</p>
+               <p>Q. <hi>What is Jeſus Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God; <hi>viz.</hi> the ſecond perſon in the Tri<g ref="char:EOLhyphen"/>nity, and Man in one perſon, anointed to be a King, Prieſt and Prophet unto his people: Briefly, he is God-Man, Mediator between God and man.</p>
+               <p>Q. <hi>What things are chiefly to be conſidered in Jeſus Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. His fitneſs to be a Redeemer.</item>
+                     <item>2. The parts of Redemption.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>In what doth this fitneſs to be a Redeemer conſiſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In his perſon and office.</p>
+               <p>Q. <hi>What is to be known concerning the perſon of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. The diſtinction of the two natures.<note place="margin">Matth. 1.23. Ioh. 1.14 Col. 2.9.</note>
+                     </item>
+                     <item>2. The perſonal union of them in him.</item>
+                     <item>3. The effects and conſequents of this per<g ref="char:EOLhyphen"/>ſonal union.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is the diſtinction of the two natures?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That whereby the two natures remain
+<pb n="30" facs="tcp:116555:16"/>diſtinct in him, both in themſelves and in their properties.</p>
+               <p>Q. <hi>What is the perſonal union of them?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That whereby the ſecond perſon in the Trinity,<note place="margin">Iohn 1.14. Hebr. 4.15. 1 Tim. 3.16.</note> 
+                  <hi>viz.</hi> the Divine Eſſence ſubſiſting in the relation of the Son, aſſumed the Manhood like unto us in all things, ſin only excepted, and the maner of its ſubſiſtence; for the Manhood never ſubſiſted but in the Godhead, from which ſubſtantial coupling together both of the Di<g ref="char:EOLhyphen"/>vine and Humane nature, both natures make but one perſon.</p>
+               <p>Q. <hi>Why muſt Jeſus Chriſt be Man?</hi>
+                  <note place="margin">Ge. 2.17 1 Cor. 15.21.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> That he might in our nature ſuffer for us.</p>
+               <p>Q. <hi>Why muſt he be God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That his ſufferings might be overcome by him,<note place="margin">2 Cor. 13.4. 1 Pet. 3.18. Heb. 9.1, 4.</note> and be effectual unto us.</p>
+               <p>Q. <hi>But how do you apprehend the Manhood to be united to the Godhead?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By means of the ſecond perſon, ſo that the Manhood was united immediately to the perſon, and ſo mediately to the Godhead.</p>
+               <p>Q. <hi>For the better underſtanding of this perſo<g ref="char:EOLhyphen"/>nal union, what is to be conſidered?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three things:
+<list>
+                     <item>1. A double conſideration of the ſecond perſon of the Trinity.</item>
+                     <item>2. The conſideration of the nature of a perſon.</item>
+                     <item>3. What it is for the Manhood to receive its perſonality from the ſecond perſon in the Tri<g ref="char:EOLhyphen"/>nity.</item>
+                  </list>
+               </p>
+               <pb n="31" facs="tcp:116555:16"/>
+               <p>Q. <hi>How doth it appear that there is cauſe for a double conſideration of the ſecond perſon in the Trinity?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. The ſecond perſon in the Trinity con<g ref="char:EOLhyphen"/>ſidered in himſelf, is God and not Man; but being conſidered in perſonal union with the Manhood, he is God-Man.</item>
+                     <item>2. That the ſecond perſon ſhould be of the Father by coeternal generation, was abſolute<g ref="char:EOLhyphen"/>ly neceſſary; but that the ſecond perſon ſhould be united unto the Humane nature, was not abſolutely neceſſary, but proceeded from the free pleaſure of God: Or that the ſe<g ref="char:EOLhyphen"/>cond perſon ſhould be, was abſolutely neceſ<g ref="char:EOLhyphen"/>ſary; that he ſhould be incarnate, was arbi<g ref="char:EOLhyphen"/>trary, not neceſſary.</item>
+                     <item>3. The ſecond perſon as conſidered in him<g ref="char:EOLhyphen"/>ſelf, is of the Father, not of the holy Ghoſt: The ſecond perſon conſidered in perſonal uni<g ref="char:EOLhyphen"/>on with the Manhood, is of the Father, Son and holy Ghoſt.</item>
+                     <item>4. The ſecond perſon conſidered in himſelf, is equal unto the Father; but conſidered as united to the Manhood, is inferior to the Fa<g ref="char:EOLhyphen"/>ther in reſpect of his voluntary diſpenſation.</item>
+                     <item>5. The ſecond perſon conſidered in himſelf, was of the object of Faith unto <hi>Adam</hi> in the firſt Covenant, who was to believe in God the Father, Son and holy Ghoſt; but the ſecond perſon incarnate God-Man Mediator, was
+<pb n="32" facs="tcp:116555:17"/>not of the object of Faith in the firſt, though he be in the ſecond Covenant.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is a perſon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A perſon is the compleat and laſtly per<g ref="char:EOLhyphen"/>fecting ſubſiſtence of a reaſonable nature.</p>
+               <p>Q. <hi>What is it for the Manhood to receive its perſonality from the ſecond perſon in the Trinity?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is for the manhood from the firſt moment of its conception (it never having neither ſubſiſtence nor conſiſtence of it ſelf) to ſubſiſt in the ſecond perſon of the Trinity; ſo as the ſecond perſon in the Trinity and the manhood have two natures, yet but one, and that an increated perſon.</p>
+               <p>Q. <hi>What are the principal effects and conſe<g ref="char:EOLhyphen"/>quents of this perſonal union unto the Manhood?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Seven:<note place="margin">Col. 2.9.</note>
+                  <list>
+                     <item>1. The grace of Eminence, where<g ref="char:EOLhyphen"/>by the Manhood by reaſon of this perſonal uni<g ref="char:EOLhyphen"/>on is exalted above all creatures, and now ſit<g ref="char:EOLhyphen"/>teth at the right hand of God.</item>
+                     <item>2. Created habitual grace out of meaſure, the ſame in kinde with which all believers are made partakers of.</item>
+                     <item>3. Created knowledge.<note place="margin">Pſal. 68.18. Iohn 1.16. Iohn 3.34. Matth. 28.18.</note>
+                     </item>
+                     <item>4. Capableneſs to receive all power both in heaven and earth.</item>
+                     <item>5. Capableneſs of the office of a Mediator.</item>
+                     <item>6. The communication of the properties of both natures, to the ſame one perſon.</item>
+                     <item>7. The right of Divine adoration, yet we
+<pb n="33" facs="tcp:116555:17"/>are to know that we worſhip not with divine worſhip the Manhood, as conſidered in it ſelf, but as being perſonally united to the God<g ref="char:EOLhyphen"/>head; that is, we worſhip the Lord Jeſus as God-Man.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>How many ſorts of created knowledge are there in Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three:
+<list>
+                     <item>1. Beatifical, conſiſting in the viſion of God, whereby the Manhood doth not onely ſee God face to face, as all they that are bleſſed do; but ſeeth it ſelf in perſonal union with God; this is called the knowledge of the viſion; of it <hi>Joh.</hi> 1.18. Its <hi>principle</hi> is the Word, its <hi>medium</hi> a created light of glory.</item>
+                     <item>2. Infuſed, by which Chriſt as Man knew what can be known either of Angels or Men in this life; of it <hi>Iſa.</hi> 11.2. its <hi>principle</hi> was a divine habit immediately inſpired, its <hi>medium</hi> a created light of grace.</item>
+                     <item>3. Experimental, by which Chriſt as Man knew all things that could be known by the light of humane underſtanding; of it <hi>Luk.</hi> 2.52. its <hi>medium</hi> the light of created reaſon.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V. Hitherto of the Perſon: now</hi> Of the office of the Lord Ieſus Chriſt.</head>
+               <p>Q. <hi>VVHat is the Mediatorly office of the Lord Jeſus Chriſt?</hi>
+               </p>
+               <pb n="34" facs="tcp:116555:18"/>
+               <p>
+                  <hi>A.</hi> 'Tis that work of mediation committed unto the Son by the Father,<note place="margin">Heb. 5.4, 5, 6. Ioh. 6.27 Iohn 10.16. Phil. 2.6 Iſa. 53.10</note> accepted readily and freely by the Son, thereby procuring the application of the grace of God to the Elect, and uniting and reconciling the Elect to God, and working all things pertaining to their everlaſting good and ſalvation.</p>
+               <p>Q. <hi>What are the parts of it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three,<note place="margin">Deut. 18.15. Acts 13.22. Pſa. 110.4 Heb. 7.17 Pſal. 2.6. Dan. 2.44. Luke 1.33.</note>
+                  <list>
+                     <item>Prophetical</item>
+                     <item>Prieſtly</item>
+                     <item>Kingly</item>
+                  </list> parts thereof.</p>
+               <p>Q. <hi>Why are they mentioned in this number and order?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> There is a threefold reaſon of it, in reſpect of
+<list>
+                     <item>Man in whom there is
+<list>
+                           <item>Ignorance</item>
+                           <item>Alienation from God</item>
+                           <item>Impotency to return</item>
+                        </list> healed by his
+<list>
+                           <item>Prophetical</item>
+                           <item>Prieſtly</item>
+                           <item>Kingly</item>
+                        </list> Office.</item>
+                     <item>The ap<g ref="char:EOLhyphen"/>plicatio<g ref="char:cmbAbbrStroke">̄</g> of ſalva<g ref="char:EOLhyphen"/>tion
+<list>
+                           <item>made known</item>
+                           <item>Procured</item>
+                           <item>Applied</item>
+                        </list> in his
+<list>
+                           <item>Prophetical</item>
+                           <item>Prieſtly</item>
+                           <item>Kingly</item>
+                        </list> Office.</item>
+                     <item>The ex<g ref="char:EOLhyphen"/>ecution of this office,
+<list>
+                           <item>He taught</item>
+                           <item>He ſuffered</item>
+                           <item>He entred into heaven</item>
+                        </list> in his
+<list>
+                           <item>Prophetical</item>
+                           <item>Prieſtly</item>
+                           <item>Kingly</item>
+                        </list> Office.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is the Prophetical part of his office?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is that whereby the Lord Jeſus Chriſt doth reveal to his people the whole counſel of God teaching of them to know the evil that they are faln into,<note place="margin">Heb. 3.1. Mal. 3.1.</note> and all the good that God hath provided for them.</p>
+               <pb n="35" facs="tcp:116555:18"/>
+               <p>Q. <hi>How many parts are there of this Prophe<g ref="char:EOLhyphen"/>tical part of his office?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two,
+<list>
+                     <item>The external promulgation of the Goſpel.</item>
+                     <item>The effectual illumination of the heart.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is the Prieſtly part of his office?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That part of the mediatorly office in which he offered up himſelf a Sacrifice to God,<note place="margin">Col. 1.20.22.</note> thereby fulfilling the Law, taking away the ſins of the Elect, and procuring for them the application of the favor of God.</p>
+               <p>Q. <hi>How many parts are there of this Prieſtly part of his office?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two,
+<list>
+                     <item>The expiation of ſin.<note place="margin">1 Pet. 2.24. 1 Pet. 3.18. Rom. 8.34. Heb. 7.25. Heb. 9.20. Heb. 7.25. Ro. 8.26. Rev. 8.3, 4.</note>
+                     </item>
+                     <item>The interceſſion of Chriſt for the Elect.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>How doth he make interceſſion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. By preſenting his merit to the Father.</item>
+                     <item>2. By the application of it by his Word and Spirit.</item>
+                     <item>3. By making interceſſion in our hearts.</item>
+                     <item>4. By making of our perſons and actions accepted before God.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is the Kingly part of his Mediator<g ref="char:EOLhyphen"/>ly office?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 'Tis that part of the Mediatorly office,<note place="margin">Rev. 118. 1 Cor. 15.24, 25.</note> in which that which Chriſt makes known as a Prophet, and purchaſed as a Prieſt, he doth now apply and eſtabliſh by his Spirit as a King to
+<pb n="36" facs="tcp:116555:19"/>the Elect; together with the everlaſting over<g ref="char:EOLhyphen"/>throw of his and their enemies.</p>
+               <p>Q. <hi>What are the parts of this Kingly part of his office?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two:
+<list>
+                     <item>1. His calling upon all that hear the Goſpel by the word of truth;<note place="margin">Matth. 28.18. Iſa. 11.10, 11, 12, 13.</note> upon the Elect, by the ſpecial work of his Spirit; upon others, by his works, and the grace of nature; <hi>i.e.</hi> the remainder of the image of God abi<g ref="char:EOLhyphen"/>ding with man after the fall.</item>
+                     <item>2. His exerciſing judgement upon all.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>How hath this an end?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. In reſpect of the maner of diſpenſa<g ref="char:EOLhyphen"/>tion,<note place="margin">1 Cor. 15.24.</note> it hath an end.</item>
+                     <item>2. But in regard of the glory due thereby to the Mediator,<note place="margin">Dan. 2.44. Luk. 1.33</note> and the good that comes to the Elect by it, it hath no end.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. Hitherto of the fitneſs to be a Redeemer: now Of the parts of Redemption.</head>
+               <p>Q. <hi>VVHat are the parts of Chriſts Re<g ref="char:EOLhyphen"/>demption?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two:<note place="margin">Rom. 4.25.</note> his
+<list>
+                     <item>Humiliation:</item>
+                     <item>Exaltation.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is Humiliation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is that ſtate of the perſon of Chriſt,<note place="margin">Phil. 2.8.</note> wherein as Mediator God-Man he was ſubject
+<pb n="37" facs="tcp:116555:19"/>unto the righteouſneſs of God, humbled him<g ref="char:EOLhyphen"/>ſelf, and became obedient to the death, even the death of the croſs.</p>
+               <p>Q. <hi>What are the parts of it?</hi>
+                  <note place="margin">2 Cor. 8.9. Phil. 2 8. Gal. 3.13</note>
+               </p>
+               <p>
+                  <hi>A.</hi> Two,
+<list>
+                     <item>Life</item>
+                     <item>Death</item>
+                  </list> or other<g ref="char:EOLhyphen"/>wiſe his Incarnation, fulfilling of the Law.</p>
+               <p>Q. <hi>What is the exaltation of Chriſt?</hi>
+                  <note place="margin">Iohn 2.10. Iohn 10.18. Rom. 1.4. Acts 1.9 Heb. 10.12.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> That ſtate of the perſon of Chriſt, wherein as Mediator God-Man after his hu<g ref="char:EOLhyphen"/>miliation he aroſe from the dead, aſcended into 05 heaven, and ſits at the right hand of God.</p>
+               <p>Q. <hi>What are the parts of it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three,
+<list>
+                     <item>his Reſurrection from the dead.</item>
+                     <item>his Aſcenſion into Heaven.</item>
+                     <item>his ſitting at the right hand of God.<note place="margin">Rom 8.34.</note>
+                     </item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is the ſitting at the right hand of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Tis that ſtate of the perſon of Chriſt,<note place="margin">Eph. 4.10. Phil. 2.9, 10. Col. 1.11.18. Matth. 28.18.</note> wherein he is ſet by the Father in the higheſt degree of his exaltation, being head of his Church, and King and Governor of all things.</p>
+               <p>Q. <hi>How many parts are there of this his Seſſion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two: the firſt is double;
+<list>
+                     <item>1. His Divine glory in that eſtate proceeding from the God-head dwelling in the Manhood.</item>
+                     <item>2. Is that eminent, but created and inherent glory with and in the Manhood, by which he is lifted up above all creatures.</item>
+                  </list>
+               </p>
+               <p>The ſecond part, is the actual adminiſtration of this kingdom.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="38" facs="tcp:116555:20"/>
+               <head>CHAP. VII. Hitherto of Redemption: now Concerning the application of it, with the parts thereof.</head>
+               <p>Q. <hi>VVHat is the application of Redem<g ref="char:EOLhyphen"/>ption?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is that work of the Spirit,<note place="margin">1 Cor. 12.13. Iohn 3.5, 6, 8.</note> whence that which Chriſt hath procured as Mediator, is ſea<g ref="char:EOLhyphen"/>ſonably and effectually applied to the Elect.</p>
+               <p>Q. <hi>Why is the application of the work of Re<g ref="char:EOLhyphen"/>demption, eminently aſcribed to the Spirit?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In two reſpects: 1. In reſpect of the office of the Spirit.<note place="margin">Eph. 1.17</note> 2. In reſpect of the ma<g ref="char:EOLhyphen"/>ner of his working;<note place="margin">Iohn 14.16. Ioh. 16.7.</note> for as his ſubſiſting is from the Father and the Son, ſo his working is from the Father and the Son; and conſequent<g ref="char:EOLhyphen"/>ly, the conſummation of things is eſpecially aſcribed to the holy Ghoſt.</p>
+               <p>Q. <hi>What is the ſubject unto which the Spirit doth apply the work of Redemption?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Elect prepared by the work of the Spirit,<note place="margin">Matth. 10.6. 2 Cor. 5.19. Matth. 18.11. Acts 13.48.</note> under the Miniſtery of the Law, and the external call of the Goſpel.</p>
+               <p>Q. <hi>What is to be conſidered concerning the application of Redemption?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. The application of Redemption it ſelf,</item>
+                     <item>2. The ſubject to which it is applied.</item>
+                     <item>3. The means by which it is to be applied unto the end of the world.</item>
+                  </list>
+               </p>
+               <pb n="39" facs="tcp:116555:20"/>
+               <p>Q. <hi>What are the parts of this application?</hi>
+                  <note place="margin">Iohn 15.25. Rom. 11.17. Rom. 7.4.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> Three: 1. Vocation: 2. Union: 3. Com<g ref="char:EOLhyphen"/>munion.</p>
+               <p>Q. <hi>What is Vocation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the infuſion of a principal of life (or as ſome ſpeak,<note place="margin">Eph. 2.1. Iohn 6.63. Iohn 6.64, 65. Iohn 5.41. Rom 11.28, 32.</note> of the habit of Faith) by the ſpirit into a loſt ſoul, in meaſure ſenſible of its inability and enmity to believe, repent or do any good: by the means of, and together with the external call of the Goſpel, in which work the ſoul notwithſtanding any prepara<g ref="char:EOLhyphen"/>tory work, is meerly paſſive; <hi>i. e.</hi> a meer paſ<g ref="char:EOLhyphen"/>ſive receiver.</p>
+               <p>Q. <hi>What is juſtifying Faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a ſaving grace of the ſpirit flowing from election,<note place="margin">Tit. 1.2 Ioh. 1.12 2 Cor. 4.1 Phi. 3.12 Col. 2.6.</note> whereby the ſoul receiveth Jeſus Chriſt as its Head and Savior, according as he is revealed in the Goſpel.</p>
+               <p>Q. <hi>What is <g ref="char:V">Ʋ</g>nion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the conjunction of Jeſus Chriſt and the believer in one myſtical body,<note place="margin">1 Cor. 12.12, 13 Rom. 12.5. Col. 2.19.</note> by the Spirit and Faith; whence ariſeth the relation of a Head and Member between Chriſt and the be<g ref="char:EOLhyphen"/>liever for ever.</p>
+               <p>Q. <hi>When is <g ref="char:V">Ʋ</g>nion wrought?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> At the ſame time with, but in order of nature, after Vocation.</p>
+               <p>Q. <hi>What is Communion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is that whereby a believer by vertue of his Union, is orderly made partaker of all the
+<pb n="40" facs="tcp:116555:21"/>good of the Covenant of GRACE.</p>
+               <p>Q. <hi>What are the benefits of this Communion, which a believer hath with God in Chriſt Jeſus?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are of two ſorts; 1. Relative or Imputative: 2. Inherent. Relative benefits are ſuch which are not Inherent in the ſubject; yet real, as Juſtification and Adoption; Inherent, as Sanctification and Glorification.</p>
+               <p>Q. <hi>What is Juſtification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a gracious act of God upon a be<g ref="char:EOLhyphen"/>liever,<note place="margin">Rom. 3.22, 24. Rom. 4.5. 2 Cor. 5.19.</note> whereby for the righteouſneſs ſake of Chriſt, imputed by God and applied by Faith, he doth freely diſcharge him from ſin and the curſe, accept him as righteous with the righte<g ref="char:EOLhyphen"/>ouſneſs of Chriſt, and acknowledge him to have a right unto eternal life.</p>
+               <p>Q. <hi>What is the efficient cauſe of Juſtification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God the Father,<note place="margin">Rom. 8.30.</note> Son and holy Ghoſt.</p>
+               <p>Q. <hi>What is the material cauſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Active and Paſſive obedience of Jeſus Chriſt.<note place="margin">Phil. 3.8, 9. Rom. 3.22. Rom. 3.24. Rom. 4.6 Phil. 3.8, 9. 2 Cor. 5.21.</note>
+               </p>
+               <p>Q. <hi>What is the formal cauſe of Juſtification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The free imputation of this Active and Paſſive righteouſneſs unto the believer.</p>
+               <p>Q. <hi>What is the inſtrument of applying Juſti<g ref="char:EOLhyphen"/>fication?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Faith, which Juſtifieth
+<list>
+                     <item>Not properly,</item>
+                     <item>Not by way of a work,</item>
+                     <item>Not as an in<g ref="char:EOLhyphen"/>herent quality,</item>
+                  </list> but relative<g ref="char:EOLhyphen"/>ly.</p>
+               <pb n="41" facs="tcp:116555:21"/>
+               <p>Q. <hi>What is the final cauſe of Juſtification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To declare the glory of God in a way of mercy, mixt with righteouſneſs.<note place="margin">Rom. 3.25, 26.</note>
+               </p>
+               <p>Q. <hi>What is Adoption?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Adoption is the gracious good pleaſure of God,<note place="margin">Ioh. 1.12 1 Ioh. 3.1</note> by which he doth acknowledge and declare all believers to be his ſons.</p>
+               <p>Q. <hi>Why is Adoption placed after Juſtification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe Adoption neceſſarily preſup<g ref="char:EOLhyphen"/>poſeth reconciliation.</p>
+               <p>Q. <hi>How doth the Adoption of man differ from the Adoption of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. In reſpect of the ground of it: the Adoption of man is grounded upon that which is external, but the adoption of believers is founded on an inward act; briefly, tis Faith.</item>
+                     <item>2. In reſpect of the right unto the inheritance: the Adoption of man hath no other right be<g ref="char:EOLhyphen"/>ſides his Adoption; the ſons of God have right as believers.</item>
+                     <item>3. In reſpect of the ſtate of him that doth Adopt: a man Adopts where he wants ſons; but God doth not want ſons when he Adopts chil<g ref="char:EOLhyphen"/>dren unto him.</item>
+                     <item>4. In reſpect of the maner of poſſeſſing the inheritance: thoſe whom man Adopts, they in<g ref="char:EOLhyphen"/>herit by ſucceſſion; a believer inherits his by a way of participation, and not ſucceſſion.</item>
+                     <item>5. In reſpect of the number of them that are Adopted; a man Adopts but one ſon or few, but God Adopts many.</item>
+                  </list>
+               </p>
+               <pb n="42" facs="tcp:116555:22"/>
+               <p>Q. <hi>What are the benefits of Adoption?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are Three:<note place="margin">Iohn 8.32, 36. Rom. 8.17. 1 Cor. 3.21, 22.</note> 1. Spiritual liberty: 2. Coheirſhip with Chriſt: 3. Reſtored lordſhip over the creatures, and intereſt in the Angels.</p>
+               <p>Q. <hi>How come the believers to have this ſon<g ref="char:EOLhyphen"/>ſhip made known to them?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the teſtimony of the Spirit.</p>
+               <p>Q. <hi>What is that peace which accompanyeth juſtifying Faith as the next effect thereof?</hi>
+                  <note place="margin">Rom. 8.15, 16. Gal. 4 5, 6, 7.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> Repentance; the nature of which doth eſpecially conſiſt in an averſion from ſin,<note place="margin">Amos 5.14, 15. Ier. 31.33. Ezek. 36.26, 27. 1 Cor. 15.10. 2 Cor. 10.4. Rom. 8 30. 1 Theſſ. 5.23, 24. Col. 3.5. Col. 3.10</note> and a full purpoſe of cleaving unto God.</p>
+               <p>Q. <hi>What is Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Sanctification is a habit of inherent grace, infuſed by the Spirit of God univerſally into all the powers of the ſoul, whereby the believer is effectually inclined and (by aſſiſting grace) ina<g ref="char:EOLhyphen"/>bled to bring down every high thought, and to yield Evangelical obedience unto the whole will of God.</p>
+               <p>Q. <hi>What are the parts of Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two
+<list>
+                     <item>Mortification,</item>
+                     <item>Vivification.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What are the differences between Juſtifi<g ref="char:EOLhyphen"/>cation and Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three: 1. In reſpect of the ſubject: The ſubject of our Juſtification, in which that is in<g ref="char:EOLhyphen"/>herent, is Jeſus Chriſt: The ſubject of Sanctifi<g ref="char:EOLhyphen"/>cation, in which that is inherent, is the whole man, though not wholly. 2. In reſpect of the
+<pb n="43" facs="tcp:116555:22"/>form of Juſtification and Sanctification; The form of Juſtification is by way of imputation, but Sanctification is the motion of alteration, from the corrupt to the renewed part. 3. In re<g ref="char:EOLhyphen"/>ſpect of the adjuncts, one eſpecially;<note place="margin">Heb. 12.30. Matth. 25.34. Mat. 25.21, 23. Pſal. 16.11. Rov. 21.22, 23. Rev. 22.1</note> our Juſtifi<g ref="char:EOLhyphen"/>cation it is perfect, and in Chriſt; our Sanctifica<g ref="char:EOLhyphen"/>tion is imperfect, and is in us.</p>
+               <p>Q. <hi>What is Glorification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Tis that ſtate wherein the elect being freed from all imperfection, do enjoy perfect bleſſed<g ref="char:EOLhyphen"/>neſs in the preſence of God, and of the Lamb for ever.</p>
+               <p>Q. <hi>Wherein doth this glorified eſtate of the elect conſiſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In four things: 1. The viſion of God:<note place="margin">Math. 5.9. 1 Ioh. 3.1 Pſal. 17.15. 1 Cor. 13.12. Phil. 1.23. Phil. 3.21. Heb. 11.35. Phil. 3.11</note> 2. Conformity to God: 3. Satisfaction in God: 4. Knowledge of this eſtate.</p>
+               <p>Q. <hi>When ſhall this bleſſed eſtate of the elect be enjoyed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſoul ſhall go into this glorious eſtate at its diſſolution, but the full accompliſhment of glory, is reſerved until the body and the ſoul be reunited at the Reſurrection.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. Hitherto of the application of Redemption conſidered in it ſelf: now followeth <hi>The ſubject to which Redemption is applied.</hi>
+               </head>
+               <p>Q. <hi>VVHat is the ſubject to which Redem<g ref="char:EOLhyphen"/>ption is applied?</hi>
+               </p>
+               <pb n="44" facs="tcp:116555:23"/>
+               <p>
+                  <hi>A.</hi> The Catholique Church,<note place="margin">Eph. 5.26, 27. Iohn 17.9, 10, 11.</note> which is both the effect, and the ſubject of Redemption applied.</p>
+               <p>Q. <hi>How is the Catholique Church to be con<g ref="char:EOLhyphen"/>ſidered?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Diverſly, more largely comprehending Angels and men effectually called; more ſtrict<g ref="char:EOLhyphen"/>ly comprehending men alone.</p>
+               <p>Q. <hi>What is the Catholique Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the number of the Elect and Redeem<g ref="char:EOLhyphen"/>ed,<note place="margin">1 Cor. 1.24. 1 Cor. 10.32.</note> whom God hath called out of the world, unto a ſupernatural eſtate and communion of grace and glory with himſelf in Jeſus Chriſt.</p>
+               <p>Q. <hi>Whether are there more Catholique Churches then one?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, there is but one,<note place="margin">Eph. 4.5.</note> becauſe there is but one Faith.</p>
+               <p>Q. <hi>How is this Catholique Church to be di<g ref="char:EOLhyphen"/>ſtinguiſhed?</hi>
+               </p>
+               <p>It is diſtinguiſhed either
+<list>
+                     <item>Improperly, in reſpect of the Eſſence, and ſo it is ſaid to be
+<list>
+                           <item>True, or</item>
+                           <item>Falſe.</item>
+                        </list>
+                     </item>
+                     <item>More properly, in three reſpects,
+<list>
+                           <item>1. In reſpect of the degree of Communion it hath with God,<note place="margin">Eph. 3.15.</note> and ſo it is
+<list>
+                                 <item>Militant,</item>
+                                 <item>Triumphant.</item>
+                              </list>
+                           </item>
+                           <item>2. In reſpect of the times,<note place="margin">Rom. 1.4 2 Cor. 8.19. Luke 17.21. Rom. 2.28, 29. 2 Pet. 3.4.</note> and ſo the Church of the
+<list>
+                                 <item>Old Teſtament.</item>
+                                 <item>New Teſtament.</item>
+                              </list>
+                           </item>
+                           <item>3. In reſpect of its adjuncts, and ſo it is
+<list>
+                                 <item>Inviſible,</item>
+                                 <item>Viſible.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="45" facs="tcp:116555:23"/>
+               <p>Q. <hi>What is a viſible Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a ſimilar part of the Catholique Church, conſiſting of a competent number, knit together by way of viſible covenant, to exerciſe an holy communion with God in Chriſt, and ſo one with another, according to the order of the Goſpel.</p>
+               <p>Q. <hi>How is this viſible Church to be diſtin<g ref="char:EOLhyphen"/>guiſhed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is
+<list>
+                     <item>Pure or</item>
+                     <item>impure, and</item>
+                     <item>ſo it is</item>
+                  </list>
+                  <list>
+                     <item>Simply erring,</item>
+                     <item>Schiſmatical,</item>
+                     <item>Heretical.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is chiefly to be conſidered in a viſible Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. That the platform thereof is taught in the Scripture, one and the ſame unalterable, therefore to be fetched from thence.</item>
+                     <item>2. The conſtitution of it.</item>
+                     <item>3 The power of it.</item>
+                     <item>4. The officers in it.</item>
+                     <item>5. The exerciſe of its power.</item>
+                     <item>6. Communion.</item>
+                     <item>7. Order in all.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is to be conſidered in the conſtitu<g ref="char:EOLhyphen"/>ting of this viſible Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two things,
+<list>
+                     <item>Matter</item>
+                     <item>Form</item>
+                  </list> of a viſible Church.</p>
+               <p>Q. <hi>What is the matter of a viſible Church?</hi>
+                  <note place="margin">Eph. 1.1. 1 Cor. 1.2. 2 Cor. 1.1.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> Saints; <hi>i. e.</hi> viſible believers.</p>
+               <p>Q. <hi>What is the form of it?</hi>
+               </p>
+               <pb n="46" facs="tcp:116555:24"/>
+               <p>
+                  <hi>A.</hi> A viſible covenant, either explicite or implicite.</p>
+               <p>Q. <hi>What is the firſt ſubject of Church-power?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſociety of believers united together in an holy political covenant.<note place="margin">Matth. 16.19.</note>
+               </p>
+               <p>Q. <hi>What is this power of the Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is that power which is given by Jeſus Chriſt to the Church, to order the Society ac<g ref="char:EOLhyphen"/>cording to ſuch Spiritual means as are preſcri<g ref="char:EOLhyphen"/>bed in the Word, for the glory of God, and the edification of the whole; this power un<g ref="char:EOLhyphen"/>der the Goſpel, is commonly called, The power of the Keys.</p>
+               <p>Q. <hi>How many ſorts are there of the Officers of the Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two,
+<list>
+                     <item>The Officers of the Church un<g ref="char:EOLhyphen"/>der the Old Teſtament:</item>
+                     <item>The Officers under the New Te<g ref="char:EOLhyphen"/>ſtament.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What kinde of Officers were under the Old Teſtament?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two kindes:
+<list>
+                     <item>1. Extraordinary Patri<g ref="char:EOLhyphen"/>archs, and ſuch men that had both Civil and Spiritual Power, and Prophets.</item>
+                     <item>2. Ordinary Officers, before the Law, as the heads of Families.</item>
+                  </list>
+               </p>
+               <p>After the Law, the poſterity of <hi>Levi,</hi> as the High Prieſt, the reſt Prieſts, Levites.</p>
+               <p>Q. <hi>What are the kindes of the Church-Officers under the New Teſtament?</hi>
+               </p>
+               <pb n="47" facs="tcp:116555:24"/>
+               <p>
+                  <hi>A.</hi> Some are, 1. Extraordinary;<note place="margin">Eph. 4.11. 1 Cor. 12.28. 2 Tim. 4.5. Rom. 12.7, 8. 1 Tim. 5.17. Mat. 28.18, 19. Acts 6. 1 Tim. 3.8. &amp; 5.9.</note> as Apoſtles immediately called by <hi>Chriſt.</hi>
+               </p>
+               <p>Evangeliſts, mediately called by the Apoſtles.</p>
+               <p n="2">2. Ordinary Officers, taking care of the Spi<g ref="char:EOLhyphen"/>ritual things of the Church, teaching and ru<g ref="char:EOLhyphen"/>ling, as Paſtors and Teachers; or ruling onely, as Ruling-Elders.</p>
+               <p n="2">2. Such that take care of the bodily good things of the Church, as Deacons, and widows.</p>
+               <p>Q. <hi>What is meant by the exerciſe of the power of the Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The form of the adminiſtration thereof.</p>
+               <p>Q. <hi>In whoſe hands remains the adminiſtration?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In an Organick Church this adminiſtra<g ref="char:EOLhyphen"/>tion in matters of Government,<note place="margin">Matth. 18.17. 1 Cor. 5.2, 4, 5, 12. 2 Cor. 2.6. Acts 14.23. Acts 6. 2 Cor. 8.19.</note> is in the hands of the Elders onely; the power of Judge<g ref="char:EOLhyphen"/>ment in matters of Cenſure, and the power of Liberty in matters of Liberty, remains in the hands of the Fraternity: In an Inorga<g ref="char:EOLhyphen"/>nick Church, all power that is not official, <hi>i.e.</hi> not proper to the Elders, remains in the hands of the Fraternity, the firſt ſubject of Church-power, as before.</p>
+               <p>Q. <hi>What is Communion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Church-communion is, the performance of ſuch ſervices as are due from the Church to God, and in him unto other Churches; but eſpecially ſuch as the Members of each ſpecial Congregation do mutually owe one unto an<g ref="char:EOLhyphen"/>other.</p>
+               <pb n="48" facs="tcp:116555:25"/>
+               <p>Q. <hi>What is order?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the conſcientious practice of the will of God concerning the Church, in ſuch a way as is preſcribed in the word to the Church, whether they be members and officers,<note place="margin">Col. 2.5 1 Tim. 3.15. 1 Cor. 14.40.</note> or mem<g ref="char:EOLhyphen"/>bers onely.</p>
+               <p>Q. <hi>In caſe of incorrigibleneſs in the Elder<g ref="char:EOLhyphen"/>ſhip, whether doth the power return?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Unto the Brotherhood or Fraternity, the firſt ſubject thereof, yet orderly, and ac<g ref="char:EOLhyphen"/>cording to councel.</p>
+               <p>Q. <hi>When is there uſe of a councel?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When ſuch material doubts do ariſe in in a Church or Churches,<note place="margin">Act. 15.2.</note> concerning matters of Government or Doctrine, as cannot other<g ref="char:EOLhyphen"/>wiſe conveniently be determined.</p>
+               <p>Q. <hi>What is a councel?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A publique, free and lawful meeting of godly and learned men, orderly ſent from di<g ref="char:EOLhyphen"/>vers Churches, in which, caſes that concern the Churches, either in reſpect of Doctrine or Government are examined, and the truth there<g ref="char:EOLhyphen"/>in determined.</p>
+               <p>Q. <hi>What are the principal conditions requi<g ref="char:EOLhyphen"/>ſite in ſuch a Councel?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. That it be lawfully called.</p>
+               <p>2. That there be a preſident of the counſel principal, Jeſus Chriſt. Miniſterial: 1. Poli<g ref="char:EOLhyphen"/>tical; <hi>viz.</hi> The Magiſtrate that ſees peace be kept. 2. Eccleſiaſtical, who ſeeth to ordering
+<pb facs="tcp:116555:25"/>of the diſputation. 3. Fit perſons orderly called. 4. The orderly examination, and determinati<g ref="char:EOLhyphen"/>on of the truth in the matters controverted, according to the word of God.</p>
+               <p>Q. <hi>What is the power of the ſentence of a Councel?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Not Juridical, as the Judicial ſentence of a Court or Church is, but deciſive and limited, binding no farther then it hath conformity with the Scriptures; the queſtion is onely car<g ref="char:EOLhyphen"/>ryed to the Councel, the cauſe remains with the Church.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. Hitherto of the Subject to which Redemption is applyed:<note place="margin">1 Cor. 3.5. Rom. 10.17. Dan. 10.21. Matth. 28.19. 1 Cor. 11.25, 26. Mat. 7.7. Matth. 21.22. Matt. 18.15, 16. 1 Cor. 5.5.</note> now follow <hi>The external means by which Redemption is applyed to the end of the world.</hi>
+               </head>
+               <p>Q. <hi>VVHat are the external means by which Redemption is applyed to the Church.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> There are four:
+<list>
+                     <item>1 By the Miniſtery of the word; which word being contained in the Scriptures, order calls to ſpeak of them in this place.</item>
+                     <item>2. By Prayer.</item>
+                     <item>3. By the Miniſtery of the Sacraments.</item>
+                     <item>4. By Diſcipline.</item>
+                  </list>
+               </p>
+               <pb n="50" facs="tcp:116555:26"/>
+               <p>Q. <hi>What are the Scriptures?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Scriptures are the revealed wil of God contained in the books of the old &amp; new Teſta<g ref="char:EOLhyphen"/>ment written by holy men,<note place="margin">Rev. 22.18. 2 Pet. 1.19. Iſa. 8.20. Ioh. 5.39 Deu. 4.2.</note> as they were moved by the ſpirit of God, to remain a conſtant, real, and unalterable rule of Faith, and maners un<g ref="char:EOLhyphen"/>to the end of the world.</p>
+               <p>Q. <hi>What are you to conſider concerning the Scriptures?</hi>
+                  <note place="margin">Gal. 6.16 2 Tim. 3.16. Iob 33.12. Iohn 20.30. Mat. 5.18 Rev. 1.3. Neh. 8.8 1 Cor. 14.19. Ioh. 5.39. Col. 3.16. Pſal. 19.7. 2 Tim. 3.16, 17.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> Six things,
+<list>
+                     <item>Authority.</item>
+                     <item>Neceſſity.</item>
+                     <item>Edition or Tranſlation.</item>
+                     <item>Interpretation.</item>
+                     <item>Reading and Plainneſs.</item>
+                     <item>Perfection.</item>
+                  </list>
+               </p>
+               <div type="part">
+                  <head>Of the ſecond means of the Application of Redemption.</head>
+                  <p>Q. <hi>What is Prayer?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is an act of worſhip,<note place="margin">Rom. 8.23, 26. Iohn 14.13, 14.</note> wherein we do religiouſly repreſent our deſires unto God in the name of Chriſt.</p>
+                  <p>Q. <hi>Where have you the ſubſtance of things to be deſired?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> In the Lords prayer.<note place="margin">Matth. 6.9.</note>
+                  </p>
+                  <p>Q. <hi>How many parts are there of Prayer?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Three,<note place="margin">Neh. 9.3 Dan. 9.20. Phil. 4 6.</note> Confeſſion, Petition, Thankſgiving.</p>
+                  <p>Q. <hi>What other acts of worſhip may fall out here ſometimes?</hi>
+                  </p>
+                  <pb n="51" facs="tcp:116555:26"/>
+                  <p>
+                     <hi>A.</hi> A Vow, an Oath, a Lot.<note place="margin">Pſ. 76.11 Heb. 6.15, 16. Act. 1.26 Matth. 21.25. Matth. 28.19. 1 Cor. 11.23. Matth. 3.11. 1 Cor. 10.16. Rom. 4.11. Matth. 26.26. 1 Cor. 11.23. Matth. 26.26. &amp; 26.29 Matth. 26.28. 1 Cor. 11.23.</note>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>The third means of Application of Redemption.</head>
+                  <p>Q. <hi>What is a Sacrament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is an ordinance inſtituted by the Lord Jeſus, wherein by certain viſible figures duely adminiſtred and received, he doth ſigni<g ref="char:EOLhyphen"/>fie to the receiver, though unworthy; ſignifie, apply &amp; confirm unto the worthy, all the good of the Covenant of Grace, and receiveth a re<g ref="char:EOLhyphen"/>ciprocal ſeal from the receivers of their cove<g ref="char:EOLhyphen"/>nant with God in him.</p>
+                  <p>Q. <hi>What is the efficient cauſe of a Sacrament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The inſtitution of the Lord Jeſus.</p>
+                  <p>Q. <hi>What is the matter?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi>
+                     <list>
+                        <item>External, <hi>viz.</hi> the element, as bread and wine.</item>
+                        <item>Internal, all the good of the Covenant of Grace.</item>
+                     </list>
+                  </p>
+                  <p>Q. <hi>What is the form?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is twofold; External, <hi>viz.</hi> That maner of adminiſtration, both of the Miniſters and re<g ref="char:EOLhyphen"/>ceivers part, which is preſcribed in the word.</p>
+                  <p>Internal;<note place="margin">Matth. 26.26, 28. 1 Cor. 10.16. Rom. 4.11. with Gen. 17.9.</note> 
+                     <hi>viz.</hi> The relative union between the element and the grace ſignified.</p>
+                  <p>Q. <hi>What is the end of a Sacrament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It hath two ſpecial ends: Gods renewing and ſealing covenant with us. 2. Our renew<g ref="char:EOLhyphen"/>ing and ſealing covenant with him.</p>
+                  <p>Q. <hi>Whether do the unbelivers and unworthy receive the Sacrament?</hi>
+                  </p>
+                  <pb n="52" facs="tcp:116555:27"/>
+                  <p>
+                     <hi>A.</hi> They receive the Sacrament as an ex<g ref="char:EOLhyphen"/>ternal ordinance, but they receive not the good of the Sacrament; they receive the external, but not the internal part of it.</p>
+                  <p>Q. <hi>How many Sacraments are there in the new Teſtament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Two: Baptiſm, and the Supper of the Lord.</p>
+                  <p>Q. <hi>What is Baptiſm?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The firſt Sacrament of the Goſpel,<note place="margin">Matth. 28.19. Rom. 4.11. with Col. 2.11, 12.</note> wherein by water duly applied and received, the baptized receive a ſeal of their ingrafting into Chriſt, and of the whole good of the Co<g ref="char:EOLhyphen"/>venant of Grace ſeaſonably to be applied, and renew their covenant with God in <hi>Chriſt Jeſus.</hi>
+                  </p>
+                  <p>Q. <hi>What is the efficient cauſe thereof?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The Lord Jeſus.<note place="margin">Iohn 1.33.</note>
+                  </p>
+                  <p>Q. <hi>What is the Matter?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Twofold,<note place="margin">Matth. 3.11.</note>
+                     <list>
+                        <item>Eternal; <hi>viz.</hi> Water.</item>
+                        <item>Internal; The good of the Covenant of Grace.</item>
+                     </list>
+                  </p>
+                  <p>Q. <hi>What is the form?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Twofold:<note place="margin">Matth. 28 16, 18, 19.</note>
+                     <list>
+                        <item>1. External, <hi>viz.</hi> The out<g ref="char:EOLhyphen"/>ward action of the Miniſter and the perſon baptized.</item>
+                        <item>2 Internal; the union between the ſign and the thing ſignified; <hi>i. e.</hi> The water and the grace of the covenant.</item>
+                     </list>
+                  </p>
+                  <p>Q. <hi>What is the end?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To ſeal unto the baptized their ingraft<g ref="char:EOLhyphen"/>ing
+<pb n="53" facs="tcp:116555:27"/>into <hi>Christ,</hi> together with the whole good of the Covenant of Grace, partly being alrea<g ref="char:EOLhyphen"/>dy, the reſt in Gods time and way to be wholly conferred upon them.</p>
+                  <p n="2">2. To take a pledge of the baptized perſons renewing Covenant with God.</p>
+                  <p>Q. <hi>Who is to be baptized?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> A believer, who is a member of a viſible Church.</p>
+                  <p>Q. <hi>What is the Supper of the Lord?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The ſecond Sacrament of the New Teſta<g ref="char:EOLhyphen"/>ment inſtituted by the Lord Jeſus,<note place="margin">Mat. 28.19. Ioh. 4.1. Gen. 17. Mat. 26.26. Mar. 14.22, 23. Luk. 22.17, 19. Matt. 26.28.</note> wherein by bread and wine duly adminiſtred and received, he doth offer and ſignifie unto the receiver, though unworthy: offer, ſignifie and apply un<g ref="char:EOLhyphen"/>unto the worthy receiver, all the good of the Covenant of Grace, for the ſealing of him up in the ſafety and growth of the ſame, and re<g ref="char:EOLhyphen"/>ceiveth a reciprocal ſeal from the receiver of the covenant with God in him.</p>
+                  <p>Q. <hi>What is the efficient cauſe thereof?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The inſtitution of the Lord <hi>Jeſus Chriſt.</hi>
+                     <note place="margin">1 Cor. 11.23.</note>
+                  </p>
+                  <p>Q. <hi>What is the matter?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Tis twofold,
+<list>
+                        <item>External; <hi>viz.</hi> bread and wine.<note place="margin">Matt. 26.26, 27, 28. Luk. 22.20. 1 Cor. 11.23, 24, 25.</note>
+                        </item>
+                        <item>Internal, is the good of the Covenant of Grace.</item>
+                     </list>
+                  </p>
+                  <p>Q. <hi>What is the form?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Tis twofold; External, <hi>viz.</hi> The whole outward action of the Miniſter and receiver,
+<pb n="54" facs="tcp:116555:28"/>preſcribed in the Word. Internal, the union between the elements, <hi>viz.</hi> bread and wine: and the thing ſignified, <hi>viz.</hi> The good of the Co<g ref="char:EOLhyphen"/>venant of Grace, called the Sacramental union.</p>
+                  <p>Q. <hi>What is the end of the Supper?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Tis chiefly twofold:<note place="margin">Matt. 26.28. 1 Cor. 11.25.</note>
+                     <list>
+                        <item>1. The ſealing un<g ref="char:EOLhyphen"/>to the receiver his ſafety and growth in the Covenant of Grace.</item>
+                        <item>2. The renewing of the covenant on our parts with God in <hi>Chriſt Jeſus,</hi> and in him one with another.</item>
+                     </list>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Of Diſcipline, the fourth means, &amp;c.</head>
+                  <p>Q. <hi>What is diſcipline?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> A perſonal application of the correction and cenſures of the Church in caſe of offence,<note place="margin">Matt. 16.19. Matt. 18.15, 16.</note> according to the rule of the Goſpel.</p>
+                  <p>Q. <hi>After what order is this diſcipline to be exerciſed.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> In private offences,<note place="margin">Matt. 18.15, 16, 17.</note> according to the rule preſcribed.</p>
+                  <p>Q. <hi>Are we in the exerciſe of diſcipline, bound to obſerve the order preſcribed,</hi> Matth. 18.</p>
+                  <p>
+                     <hi>A.</hi> Yes, Except the offence be publique,<note place="margin">1 Tim. 5.20.</note> then the proceeding is to be publique.</p>
+                  <p>Q. <hi>After all the good of Redemption applied,</hi>
+                     <note place="margin">2 Cor. 5.10. Dan i2.2. Heb. 10.35. Iohn 5.28, 29.</note> 
+                     <hi>which God intended his Elect in this life in the uſe of outward means, what do you further be<g ref="char:EOLhyphen"/>lieve?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The Reſurrection of the dead, and the laſt Judgement.</p>
+                  <pb n="55" facs="tcp:116555:28"/>
+                  <p>Q. <hi>What do you believe concerning the laſt Judgement?</hi>
+                     <note place="margin">Rom. 2.16. 2 Cor 5.10 Matt. 25.46.</note>
+                  </p>
+                  <p>
+                     <hi>A.</hi> That <hi>Jeſus Chriſt</hi> ſhall come in perſon to judge both quick and dead, according to their deeds, when the wicked ſhall go into ever<g ref="char:EOLhyphen"/>laſting puniſhment, but the righteous into life eternal.</p>
+                  <p>Q. <hi>When ſhall theſe things be?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> At the end of the world.<note place="margin">Matt. 13.40.</note>
+                  </p>
+               </div>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. Hitherto of Faith in God: now followeth Of obedience unto God.</head>
+               <p>Q. <hi>VVHat is the ſecond part of the Do<g ref="char:EOLhyphen"/>ctrine of godlineſs?</hi>
+                  <note place="margin">1 Pet 1.2 &amp; 1.14, 15. Rom. 6.16, 18.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> Obedience unto God.</p>
+               <p>Q. <hi>What is obedience?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A habit wrought in us by the holy Ghoſt;<note place="margin">Mic. 6<g ref="char:punc">▪</g>8. Gal. 2.20. 1 Cor. 15.10.</note> whence through the help of the ſame Spirit working in us, we do in a way of Faith Evangelically fulfil the revealed and com<g ref="char:EOLhyphen"/>manded will of God.</p>
+               <p>Q. <hi>What is required to the performing of an act of obedience,</hi>
+                  <note place="margin">Iſa. 29.13 Mat. 15 9 &amp; 12.33 Rom. 14.23. 1 Cor. 10.31.</note> 
+                  <hi>which is commonly called a good work?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three things: 1. That it be command<g ref="char:EOLhyphen"/>ed: 2. That it be done in Faith, in reſpect of the habit and act: 3. That it be done to the glo<g ref="char:EOLhyphen"/>ry of God.</p>
+               <pb n="56" facs="tcp:116555:29"/>
+               <p>Q. <hi>What is the rule of obedience?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Decalogue or the ten command<g ref="char:EOLhyphen"/>ments;<note place="margin">Deut. 4.13. Mica. 6 8 Mat. 22.37, 38, 39, 40.</note> unto which, whatſoever is commanded in Scripture may be reduced.</p>
+               <p>Q. <hi>What general rules are there which may be as helps for the better underſtanding of the Decalogue.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Theſe:
+<list>
+                     <item>1. The Decalogue muſt be un<g ref="char:EOLhyphen"/>derſtood to comprehend as well internal as ex<g ref="char:EOLhyphen"/>ternal duties.</item>
+                     <item>2. Every Negative includeth an Affirmative, and on the contrary,</item>
+                     <item>3. Negative commands binde us at all times, there is never any time to do any evil: Affirmative commands binde us not at all times; for we are not to do this or that par<g ref="char:EOLhyphen"/>ticular good duty at all times.</item>
+                     <item>4. The commandments of the ſecond Table muſt give place to the commandments of the firſt; if the commands of the one and other be compared in the ſame degree: but the greateſt duties of the ſecond Table, muſt not give way to the leaſt in the firſt, <hi>Mat.</hi> 12.7.</item>
+                     <item>5. Whatſoever is commanded in the Scri<g ref="char:EOLhyphen"/>ptures, may directly or indirectly be reduced to the Decalogue; thoſe commands <hi>Mat.</hi> 22.37, 39. are reduced to the Decalogue as prin<g ref="char:EOLhyphen"/>ciples to their concluſions; other commands are reduced as concluſions to their principles: ſome of which we yet muſt remember cannot
+<pb n="57" facs="tcp:116555:29"/>be referred to any one command onely, but in divers reſpects are to be referred unto divers.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>How is the Decalogue, which is the rule of obedience, divided?</hi>
+                  <note place="margin">Exod. 31.18. Deut. 9.10. Exod. 32 16.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> Into two Tables, according to the two general parts of obedience.</p>
+               <p>Q. <hi>Which are thoſe two parts of obedience?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. Religion, ſhewing our duty towards God, the ſum of the firſt Table.<note place="margin">Matt. 22.32. Rom. 1.18. Tit. 2.12</note>
+                     </item>
+                     <item>2. Righteouſneſs, ſhewing our duty towards our Neighbor, the ſum of the ſecond Table.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is Religion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 'Tis a vertue wrought by the holy Ghoſt,<note place="margin">Rom. 1.21. Acts 26.5. James 1.26, 27.</note> by which, together with the exerciſe thereof, believers do rightly acknowledge and wor<g ref="char:EOLhyphen"/>ſhip God.</p>
+               <p>Q. <hi>What is worſhip?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The immediate ſervice of God, where<g ref="char:EOLhyphen"/>by in <hi>Jeſus Chriſt</hi> we give unto him the honor of the ſupreme, onely and abſolute Lord, and exerciſe a holy communion with him as with our God.</p>
+               <p>Q. <hi>How many kindes of religious worſhip are there?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two:
+<list>
+                     <item>1. Natural, called otherwiſe pri<g ref="char:EOLhyphen"/>mary, or properly moral worſhip.</item>
+                     <item>2. Inſtituted, called otherwiſe ſecondary,<note place="margin">Exod. 20.6.</note> po<g ref="char:EOLhyphen"/>ſitive temporal by ſome ceremonial worſhip.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>What is natural worſhip?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The perpetual and eternal ſervice of
+<pb n="58" facs="tcp:116555:30"/>God commanded in the firſt Table: thus they worſhip God which are in heaven.<note place="margin">Heb. 1.6. Rev. 5.14.</note>
+               </p>
+               <p>Q. <hi>What is inſtituted worſhip?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 'Tis the temporary ſervice of God com<g ref="char:EOLhyphen"/>manded in the firſt Table;<note place="margin">Matt. 16.19.</note> of which, that which is proper to the Church under the Go<g ref="char:EOLhyphen"/>ſpel, is that which we call the power of the Keys.</p>
+               <p>Q. <hi>How doth inſtituted worſhip differ from moral worſhip?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. Moral worſhip, beſides its being taught in the firſt Table, may be learned out of the nature of God: Inſtituted worſhip is found<g ref="char:EOLhyphen"/>ed in the poſitive Law of God.</item>
+                     <item>2. Moral worſhip continueth unchanged: Inſtituted worſhip hath been changed, being divers before the Law, under the Law, and un<g ref="char:EOLhyphen"/>der the Goſpel.</item>
+                     <item>3. Moral worſhip is perpetual:<note place="margin">1 Cor. 13.8.</note> Inſtituted worſhip is temporal, ending with the world.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>After what order is the worſhip of God taught in the firſt Table?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The object of it is taught in the firſt commandment.</p>
+               <p>The means of it in the ſecond command<g ref="char:EOLhyphen"/>ment.</p>
+               <p>The maner of it in the third commandment.</p>
+               <p>The time of it in the fourth commandment.</p>
+               <p>Q. <hi>Which is the firſt commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou ſhalt have none other Gods before me.<note place="margin">Exod. 20.3.</note>
+               </p>
+               <pb n="59" facs="tcp:116555:30"/>
+               <p>Q. <hi>What is here commanded?</hi>
+                  <note place="margin">Deut. 6.45. Matth. 4.10. Ier. 10.25. Rom. 1.21, 22, 23. 2 Kings 17.33.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> That we worſhip God, and him alone.</p>
+               <p>Q. <hi>What is here forbidden?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. All not worſhipping of God, which is Atheiſm.</item>
+                     <item>2. Worſhipping others, and not God, which is Idolatry.</item>
+                     <item>3. Worſhipping others, together with God, which is Polutheiſm.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>Which is the ſecond commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou ſhalt not make to thy ſelf any graven image, <hi>&amp;c.</hi>
+                  <note place="margin">Exod. 20.4, 5, 6. Deut. 4.12. &amp; 12.30, 31, 32.</note>
+               </p>
+               <p>Q. <hi>What is here commanded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That God is to be worſhipped with his own worſhip onely.</p>
+               <p>Q. <hi>What is here forbidden?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Contempt of external worſhip.<note place="margin">Ezek. 33.31. Luke 19.16. Acts 7.41. Col. 2.18.21. Matt. 15.19.</note>
+               </p>
+               <p n="2">2. All Will-worſhip. 1. Idolatry; <hi>viz.</hi> worſhipping God at or in an image, by which it is diſtinguiſhed from that Idolatry forbid<g ref="char:EOLhyphen"/>den in the firſt commandment.</p>
+               <p n="2">2. Superſtition.</p>
+               <p>Q. <hi>Which is the third commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou ſhalt not take the Name of the Lord thy God in vain.<note place="margin">Exo. 20.7. Deut. 12.5. 1 Cor 14.40, 26. Mal. 1.11 12, 13.</note>
+               </p>
+               <p>Q. <hi>What is here commanded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That we worſhip God after a due ma<g ref="char:EOLhyphen"/>ner, inwardly and outwardly; and that we uſe his Name reverently at all times.</p>
+               <p>Q. <hi>What are we here forbidden?</hi>
+               </p>
+               <pb n="60" facs="tcp:116555:31"/>
+               <p>
+                  <hi>A.</hi> All irreverence in the worſhip of God. or concerning the uſe of his name;<note place="margin">Eccleſ. 5.1, 2.</note> as con<g ref="char:EOLhyphen"/>tempt, raſhneſs, lightneſs, blaſphemy, <hi>&amp;c.</hi>
+               </p>
+               <p>Q. <hi>What are we to underſtand by the Name of God?</hi>
+                  <note place="margin">Ioel 2.32. Exo. 33.19. with 34.6. Exod. 3.14, 15. Mal. 1.11 Iohn 17.6, 11, 12. Pſal. 8.9. Exod. 20 8, 9, 10, 11. Gè. 2.2, 3 Act. 20.7 1 Cor. 16.2. Rev. 1.10. Gal. 4.10. Col. 2.16 Iſ. 58.13 Gen. 2.2, 3. Exod. 16.25, 26, 30 Rev. 1.10. 1 Cor. 16 2. Iohn 20.19, 26. Act. 20.7</note>
+               </p>
+               <p>
+                  <hi>A.</hi> All thoſe things by which God hath made himſelf known to be; as, his 1. Eſſence, where are his Names and Attributes.</p>
+               <p n="2">2. Subſiſtence; <hi>viz.</hi> the Trinity of perſons in that one Eſſence.</p>
+               <p n="3">3. Decree. 4. Worſhip. 5. Words. 6. Works.</p>
+               <p>Q. <hi>What is the fourth commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Remember the Sabbath day, to keep it holy, &amp;c.</p>
+               <p>Q. <hi>What are we here commanded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſetting apart of the ſeventh Day to the immediate ſervice of God.</p>
+               <p>Q. <hi>What are we here forbidden?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Any humane inſtitutions of holy-days, or holy time.</p>
+               <p>The employing of this time in any ſuch way as hinders the worſhip of the day.</p>
+               <p>Q. <hi>By what arguments, amongst others, do you conclude the Morality of the Sabbath?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <list>
+                     <item>1. From the inſtitution of it, being be<g ref="char:EOLhyphen"/>fore the fall, and conſequently before the Ce<g ref="char:EOLhyphen"/>remonial Law.</item>
+                     <item>2. Becauſe 'tis one of the Ten Command<g ref="char:EOLhyphen"/>ments, which all are the Moral Law.</item>
+                     <item>3. The change of the day was by Divine au<g ref="char:EOLhyphen"/>thority.</item>
+                  </list>
+               </p>
+               <pb n="61" facs="tcp:116555:31"/>
+               <p>Q. <hi>What is the ſubject of the ſecond Table?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Our duty towards our neighbor.</p>
+               <p>Q. <hi>After what order is our duty towards our neighbor taught?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Con<g ref="char:EOLhyphen"/>cerning his
+<list>
+                     <item>Honor, command 5.</item>
+                     <item>Life, command 6.</item>
+                     <item>Chaſtity, command 7.</item>
+                     <item>Goods. command 8.</item>
+                     <item>Good name, command 9.</item>
+                     <item>Proſperity, command 10.</item>
+                  </list>
+               </p>
+               <p>Q. <hi>Which is the fifth Commandment;</hi>
+                  <note place="margin">Exod. 20 12. Eph. 6.2. 2 Kings 2.12. 2 Kings 2.5, 13, 14. 1 Pet. 2.7. Rom. 12.10. 2 Tim. 3.2. Iſa. 3.5. Exod. 20 13. Matt. 25.45. 1 Ioh. 3.17. Matth. 5.22.</note> viz. <hi>The firſt of the ſecond Table.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Honor thy father and thy Mother.</p>
+               <p>Q. <hi>What are we here commanded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That we walk orderly in our calling, in<g ref="char:EOLhyphen"/>wardly acknowledging, and outwardly, accord<g ref="char:EOLhyphen"/>ing to rule, expreſſing that honor which is due to ſuperiors, equals, inferiors, according to their ſeveral relations.</p>
+               <p>Q. <hi>What is here forbidden?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All neglect of duty in this kinde.</p>
+               <p>Q. <hi>Which is the ſixth commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou ſhalt not kill.</p>
+               <p>Q. <hi>What are we here commanded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The uſe of all due means that conduce to the good of our neighbor, concerning his ſpiritual and temporal life.</p>
+               <p>Q. <hi>What are we here forbidden?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The neglect of any due means tending
+<pb n="62" facs="tcp:116555:32"/>to that end, or uſe or of any means contrary thereunto.<note place="margin">Exod. 28 14. Theſſ. 4.4. 1 Cor. 7.34. 1 Theſſ. 4.5. Iob 31.1.</note>
+               </p>
+               <p>Q. <hi>Which is the ſeventh commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou ſhalt not commit adultery.</p>
+               <p>Q. <hi>What are we here commanded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The uſe of all due means, for the preſer<g ref="char:EOLhyphen"/>vation of our own and our neighbors chaſtity.</p>
+               <p>Q. <hi>What are we here forbidden?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All uncleanneſs, together with the means,<note place="margin">Exod. 20.15. Prov. 22.2. 2 Theſſ. 3.12. Luke 3.14. 1 Theſſ. 4.6. Prov. 20.10.</note> ſigns or acceſſaries thereof, or tending thereunto.</p>
+               <p>Q. <hi>Which is the eighth commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou ſhalt not ſteal.</p>
+               <p>Q. <hi>What is here commanded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That proprieties being kept undiſturbed, we poſſeſs that which is our own, not anothers, and that without injury unto any.</p>
+               <p>Q. <hi>What are we here forbidden?</hi>
+               </p>
+               <p>
+                  <hi>A</hi> All fraudulence and corruptnes in our deal<g ref="char:EOLhyphen"/>ing, concerning matters of commutative juſtice.</p>
+               <p>Q. <hi>Which is the ninth commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou ſhalt not bear falſe witneſs againſt thy neighbor.<note place="margin">Exod. 20 16. Pſa. 15. 2 Eph. 4.25. Deut. 17.6. Pſa. 12.2 Matt. 26.60, 61. Eph. 4.25</note>
+               </p>
+               <p>Q. <hi>What are we here commanded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To uſe all due means to know the truth, and to bear witneſs to the known truth, being called thereunto.</p>
+               <p>Q. <hi>What is here forbidden?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All lying, by direct falſe teſtimony, or unlawful ambiguity.</p>
+               <pb n="63" facs="tcp:116555:32"/>
+               <p n="2">2. Concealing the truth we ought to reveal.<note place="margin">Pro. 24.11. &amp; 11.3 1 Sam. 1.13. Exod. 20 17. Heb. 13.5. 1 Tim. 6.6. Phil. 4.11. Heb. 13.5. Iob. 5.2.</note>
+               </p>
+               <p n="3">3. Revealing the truth we ought to conceal.</p>
+               <p n="4">4. Alſo, whatſoever may do harm to the truth, as unjuſt ſuſpition.</p>
+               <p>Q. <hi>What is the tenth commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou ſhalt not Covet.</p>
+               <p>Q. <hi>What are we here commanded?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Contentation in our preſent eſtate.</p>
+               <p>Q. <hi>What are we here forbidden?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Deſiring of, or envying at the good of our neighbor.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
